@@ -1,0 +1,17 @@
+Victory fanfare audio
+
+Original work: Victory Fanfare Short (Heavy_ConceptB.wav)
+Author: cynicmusic
+Source: https://opengameart.org/content/victory-fanfare-short
+Original file: https://opengameart.org/sites/default/files/Heavy_ConceptB.wav
+License: Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+Retrieved: 2026-09-30
+
+Edits for this game:
+- victory.ogg: excerpt from 7.56 to 10.16 seconds (2.6 seconds).
+- boss-victory.ogg: excerpt from 6.56 to 10.16 seconds (3.6 seconds).
+- Both have an 18 ms fade-in and 320 ms fade-out, and were encoded as Ogg Vorbis.
+
+This notice applies only to victory.ogg and boss-victory.ogg.
+The other sound files were supplied by the game creator.

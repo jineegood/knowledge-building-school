@@ -1,0 +1,3351 @@
+{
+  "version": "cartoon-v1",
+  "tool": "built-in image_gen",
+  "reference": "academy-heroes-cartoon-v2.png",
+  "cards": [
+    {
+      "id": "ANGER",
+      "name": "불꽃 박자",
+      "file": "anger.webp",
+      "sheet": "ironclad-1",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 33476,
+      "sha256": "f506138069bf04ff2dd0528d9e70b4785a80d9f9c6e46084dd11fa8a3c27d765"
+    },
+    {
+      "id": "ARMAMENTS",
+      "name": "광검 조율",
+      "file": "armaments.webp",
+      "sheet": "ironclad-1",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 31694,
+      "sha256": "3c0a390984caf95360bd3dbb07305b2fd7fd465236a0be8dc040bf55c9f2e2b5"
+    },
+    {
+      "id": "BARRICADE",
+      "name": "성광 요새",
+      "file": "barricade.webp",
+      "sheet": "ironclad-1",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 4,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 32992,
+      "sha256": "9c7510aac3a78718daf9102abffd5d98310e8551e1326b3c58e8df88c2465136"
+    },
+    {
+      "id": "BASH",
+      "name": "광검 강타",
+      "file": "bash.webp",
+      "sheet": "ironclad-1",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 43272,
+      "sha256": "8ee9425ed6d6e8931937656c557d657a9573b9159cfc07617cd42a665d48b1a7"
+    },
+    {
+      "id": "BATTLE_TRANCE",
+      "name": "수호자의 몰입",
+      "file": "battle_trance.webp",
+      "sheet": "ironclad-1",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 31254,
+      "sha256": "3c20c08686fb56de0e3246420160449d1fa33210d7cca051d9a042e839e08c70"
+    },
+    {
+      "id": "BERSERK",
+      "name": "출력 해방",
+      "file": "berserk.webp",
+      "sheet": "ironclad-1",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 34186,
+      "sha256": "76e6b57281042b465f5a83576721784f87672585a1d6adc8cfe58388c6f34336"
+    },
+    {
+      "id": "BLOODLETTING",
+      "name": "체력 전환",
+      "file": "bloodletting.webp",
+      "sheet": "ironclad-1",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 25926,
+      "sha256": "843f864f9229e9c82952bd95ee3806de6445c6757d12b4401a3963abfe490f28"
+    },
+    {
+      "id": "BLOOD_FOR_BLOOD",
+      "name": "재도약의 검",
+      "file": "blood_for_blood.webp",
+      "sheet": "ironclad-1",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 209,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 36162,
+      "sha256": "c1a375a44d5f3cf8ab4b62b86dc2cec802d18609807faf6c34426d9c1823fdfb"
+    },
+    {
+      "id": "BLUDGEON",
+      "name": "태양의 무게",
+      "file": "bludgeon.webp",
+      "sheet": "ironclad-1",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 29424,
+      "sha256": "38d7900db9488c1b5439fc0909e757a18aea1fb007c6fbdb0ddc0ea0c40871b2"
+    },
+    {
+      "id": "BODY_SLAM",
+      "name": "방패 추진",
+      "file": "body_slam.webp",
+      "sheet": "ironclad-1",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 35562,
+      "sha256": "1b1dc19e56365ee5bf91eba7415c07ff8fc9194eff5506ce62c825d3b1886090"
+    },
+    {
+      "id": "BRUTALITY",
+      "name": "출력 재분배",
+      "file": "brutality.webp",
+      "sheet": "ironclad-1",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 34986,
+      "sha256": "1d9b0f323cd3cd3b30986f64607414b0b274787fb0b19960a2e91b1c31cd930d"
+    },
+    {
+      "id": "BURNING_PACT",
+      "name": "빛의 재구성",
+      "file": "burning_pact.webp",
+      "sheet": "ironclad-1",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 36872,
+      "sha256": "95222549b3f12a71cc97cd069bc7299878fbf54f194d64351af3396b373ac6b4"
+    },
+    {
+      "id": "CARNAGE",
+      "name": "대광검 전개",
+      "file": "carnage.webp",
+      "sheet": "ironclad-1",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 414,
+        "width": 300,
+        "height": 196
+      },
+      "bytes": 30328,
+      "sha256": "36b7a3fddaecdc84972957cd4173d4955185e4183576875723b388b5cd86f595"
+    },
+    {
+      "id": "CLASH",
+      "name": "정면 승부",
+      "file": "clash.webp",
+      "sheet": "ironclad-1",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 41746,
+      "sha256": "6e0aecd293799d5a913f74267e962525cce32a0294931f945f64ab3140c3e850"
+    },
+    {
+      "id": "CLEAVE",
+      "name": "반원 베기",
+      "file": "cleave.webp",
+      "sheet": "ironclad-1",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 35102,
+      "sha256": "2b7a0c69afef5f728936ab8c2880c8d2ea9d077f79fb2890e42803ccde92137e"
+    },
+    {
+      "id": "CLOTHESLINE",
+      "name": "길목 제어",
+      "file": "clothesline.webp",
+      "sheet": "ironclad-1",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 618,
+        "width": 299,
+        "height": 181
+      },
+      "bytes": 23594,
+      "sha256": "c617b69b53b7cbf5758e69b656fa006f9526ff2d9bf97bc3d3851c7c7c58e06c"
+    },
+    {
+      "id": "COMBUST",
+      "name": "광열 방출",
+      "file": "combust.webp",
+      "sheet": "ironclad-1",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 618,
+        "width": 299,
+        "height": 181
+      },
+      "bytes": 36748,
+      "sha256": "814f470adc4032714988a6c90192a1f4b6f5c03393fbb64ac8dc6f87ea64d24a"
+    },
+    {
+      "id": "CORRUPTION",
+      "name": "장비 순환",
+      "file": "corruption.webp",
+      "sheet": "ironclad-1",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 618,
+        "width": 300,
+        "height": 181
+      },
+      "bytes": 25568,
+      "sha256": "383d69c44581eecf6149c54576bb9b6f47934b8ab3c664e89a98ef78146715fe"
+    },
+    {
+      "id": "DARK_EMBRACE",
+      "name": "회수 장치",
+      "file": "dark_embrace.webp",
+      "sheet": "ironclad-1",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 618,
+        "width": 299,
+        "height": 181
+      },
+      "bytes": 27804,
+      "sha256": "92819e687d4f7e492816679925a7aff8efe70d9c695a1ab40b350564fbc6774b"
+    },
+    {
+      "id": "DEFEND_R",
+      "name": "빛방패 방어",
+      "file": "defend_r.webp",
+      "sheet": "ironclad-1",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 618,
+        "width": 299,
+        "height": 181
+      },
+      "bytes": 29226,
+      "sha256": "9c0797479544530adf3fcb487f04212b58059c29262123a52bf797e5829f5094"
+    },
+    {
+      "id": "DEMON_FORM",
+      "name": "태양 수호자",
+      "file": "demon_form.webp",
+      "sheet": "ironclad-1",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 807,
+        "width": 299,
+        "height": 213
+      },
+      "bytes": 40526,
+      "sha256": "8df261ab636209add0dbee2c65e4dfa9d580b7b514d4b229b83960b716a005fa"
+    },
+    {
+      "id": "DISARM",
+      "name": "무게 중심",
+      "file": "disarm.webp",
+      "sheet": "ironclad-1",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 807,
+        "width": 299,
+        "height": 213
+      },
+      "bytes": 38998,
+      "sha256": "b5dec96decf1708c8297257c92f1f55ee4277f6e64f9735b130d052aee896f29"
+    },
+    {
+      "id": "DOUBLE_TAP",
+      "name": "쌍성 연격",
+      "file": "double_tap.webp",
+      "sheet": "ironclad-1",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 807,
+        "width": 300,
+        "height": 213
+      },
+      "bytes": 35518,
+      "sha256": "57586f28949b424309726d446f4ae4c65b72cf853b44e1dda850fa067ab94f62"
+    },
+    {
+      "id": "DROPKICK",
+      "name": "도약 밀기",
+      "file": "dropkick.webp",
+      "sheet": "ironclad-1",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 807,
+        "width": 299,
+        "height": 213
+      },
+      "bytes": 38084,
+      "sha256": "104702b3971c818ccb2b3490690de1015438a41ba51aa3f38d902ca1a1dd7d4a"
+    },
+    {
+      "id": "DUAL_WIELD",
+      "name": "분광 복제",
+      "file": "dual_wield.webp",
+      "sheet": "ironclad-1",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 807,
+        "width": 299,
+        "height": 213
+      },
+      "bytes": 33978,
+      "sha256": "534144aead17509cc2b0ebf34de031a1dd40fd3f47069e5f0656276f5ce3fe31"
+    },
+    {
+      "id": "ENTRENCH",
+      "name": "방패 겹치기",
+      "file": "entrench.webp",
+      "sheet": "ironclad-2",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 29644,
+      "sha256": "6588b9c38a73ce15bfc5d1f5cd9925556d0752236231d3e9df7c528888d29724"
+    },
+    {
+      "id": "EVOLVE",
+      "name": "재정비 감각",
+      "file": "evolve.webp",
+      "sheet": "ironclad-2",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 32332,
+      "sha256": "4f10195e41314d3bacfdb728c4048f013afb06d3e3f7ca38055c20ce34ba97a5"
+    },
+    {
+      "id": "EXHUME",
+      "name": "빛의 재호출",
+      "file": "exhume.webp",
+      "sheet": "ironclad-2",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 4,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 38480,
+      "sha256": "1303dce9c94ca39b90e35c11db57864f2c5c545dff8e019d86bdc9a7951241fd"
+    },
+    {
+      "id": "FEED",
+      "name": "충전 마무리",
+      "file": "feed.webp",
+      "sheet": "ironclad-2",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 37480,
+      "sha256": "66325f77badb56c409f0645646d0447a87762e206b19679e5332915955aef43a"
+    },
+    {
+      "id": "FEEL_NO_PAIN",
+      "name": "잔광 보호막",
+      "file": "feel_no_pain.webp",
+      "sheet": "ironclad-2",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 37658,
+      "sha256": "d41d5fe5f179f3d017c65f37d9f47f63d52279d0bb5ed4371dd71833d7af5d9c"
+    },
+    {
+      "id": "FIEND_FIRE",
+      "name": "전력 집결",
+      "file": "fiend_fire.webp",
+      "sheet": "ironclad-2",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 35142,
+      "sha256": "7af8a9d93a049f87a19f3fdb4c295c7449bbbb94cab6c744d2db5962143e51d3"
+    },
+    {
+      "id": "FIRE_BREATHING",
+      "name": "과열 환기",
+      "file": "fire_breathing.webp",
+      "sheet": "ironclad-2",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 27314,
+      "sha256": "a9a19076b6f1f5bb73f53bdcc0d297a0f64225af3fcd2840cff895a44fe215a9"
+    },
+    {
+      "id": "FLAME_BARRIER",
+      "name": "빛가시 방벽",
+      "file": "flame_barrier.webp",
+      "sheet": "ironclad-2",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 209,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 34160,
+      "sha256": "1081373a658b94a4b9787993db02462def7f5bd7b3752419ac4cf85ceb5900c6"
+    },
+    {
+      "id": "FLEX",
+      "name": "수호의 기지개",
+      "file": "flex.webp",
+      "sheet": "ironclad-2",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 30840,
+      "sha256": "4aac722ee1baf4355d190b3ac1cf1272c9041f889790392ac5878f7a0fd4b8fa"
+    },
+    {
+      "id": "GHOSTLY_ARMOR",
+      "name": "반투명 갑주",
+      "file": "ghostly_armor.webp",
+      "sheet": "ironclad-2",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 36588,
+      "sha256": "ae038ce61a165a7e093a7c3c5f1ab30f6050400a6400d0e21fa5ff51f87f97d6"
+    },
+    {
+      "id": "HAVOC",
+      "name": "빛의 선행",
+      "file": "havoc.webp",
+      "sheet": "ironclad-2",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 29266,
+      "sha256": "724f78a96aca0e91d6f597d5468ad9bf83a881594e9cc7ee5493770d745b549c"
+    },
+    {
+      "id": "HEADBUTT",
+      "name": "방패 반동",
+      "file": "headbutt.webp",
+      "sheet": "ironclad-2",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 38418,
+      "sha256": "2c359a6afab54d7a35baeb94dcaafc242f11076e03b67958549a322e7c6366bc"
+    },
+    {
+      "id": "HEAVY_BLADE",
+      "name": "태양 광검",
+      "file": "heavy_blade.webp",
+      "sheet": "ironclad-2",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 414,
+        "width": 300,
+        "height": 196
+      },
+      "bytes": 29654,
+      "sha256": "185676f4ce8f0038f92f16af5032e33137dd9f7fe5517c1d30bb2de2ed469ba9"
+    },
+    {
+      "id": "HEMOKINESIS",
+      "name": "보호막 추진",
+      "file": "hemokinesis.webp",
+      "sheet": "ironclad-2",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 37356,
+      "sha256": "633c18d2021e9a123dc2ccf92636ca6c9c5d16bcef4a3463942efc270463f0d8"
+    },
+    {
+      "id": "IMMOLATE",
+      "name": "광열 파동",
+      "file": "immolate.webp",
+      "sheet": "ironclad-2",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 33346,
+      "sha256": "64c5cd39ce5dbf07652d9bb59dbf8650df38da2acee3950fe5de8b2584332a9e"
+    },
+    {
+      "id": "IMPERVIOUS",
+      "name": "완전 방진",
+      "file": "impervious.webp",
+      "sheet": "ironclad-2",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 618,
+        "width": 299,
+        "height": 195
+      },
+      "bytes": 37924,
+      "sha256": "4d4c07bcc46fc0ead2927e64d315ed4565c4568581dcc7cb26bbf004d7bcf8a2"
+    },
+    {
+      "id": "INFERNAL_BLADE",
+      "name": "광검 제작",
+      "file": "infernal_blade.webp",
+      "sheet": "ironclad-2",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 618,
+        "width": 299,
+        "height": 195
+      },
+      "bytes": 40332,
+      "sha256": "8b5153f583256820fc267a4bf78ae81d3d37d298ac5791b124d7c1387853c517"
+    },
+    {
+      "id": "INFLAME",
+      "name": "검광 충전",
+      "file": "inflame.webp",
+      "sheet": "ironclad-2",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 618,
+        "width": 300,
+        "height": 195
+      },
+      "bytes": 38258,
+      "sha256": "afc9c44a64449f6baea2c90bc6c9c07bb9eaaedeb6bd7e663f999749ae489030"
+    },
+    {
+      "id": "INTIMIDATE",
+      "name": "수호자의 기세",
+      "file": "intimidate.webp",
+      "sheet": "ironclad-2",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 618,
+        "width": 299,
+        "height": 195
+      },
+      "bytes": 36278,
+      "sha256": "19c6c706fa1ebfbd7e2945f23871ae0964cdf50d9a15043de3215fadc5d67048"
+    },
+    {
+      "id": "IRON_WAVE",
+      "name": "방패 파동",
+      "file": "iron_wave.webp",
+      "sheet": "ironclad-2",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 618,
+        "width": 299,
+        "height": 195
+      },
+      "bytes": 36200,
+      "sha256": "f4063912a12dc67c8b06d605a3568adeb00713b6bb9c9e3f70522e0dace56c5b"
+    },
+    {
+      "id": "JUGGERNAUT",
+      "name": "방패 공명",
+      "file": "juggernaut.webp",
+      "sheet": "ironclad-2",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 821,
+        "width": 299,
+        "height": 199
+      },
+      "bytes": 33054,
+      "sha256": "979207727beccbea9127ed03c665b9945e32e5c1eefd2fc914c4db3663798360"
+    },
+    {
+      "id": "LIMIT_BREAK",
+      "name": "출력 배가",
+      "file": "limit_break.webp",
+      "sheet": "ironclad-2",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 821,
+        "width": 299,
+        "height": 199
+      },
+      "bytes": 32142,
+      "sha256": "f3c66eac6b6b85b53d20971454674c5038d1e8d4477c25a0de17246b02d295fc"
+    },
+    {
+      "id": "METALLICIZE",
+      "name": "갑주 충전",
+      "file": "metallicize.webp",
+      "sheet": "ironclad-2",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 821,
+        "width": 300,
+        "height": 199
+      },
+      "bytes": 30532,
+      "sha256": "a360ee0d07684e14c4ed33e799ae4cd88c6b93cefa6869256366a9bb1c605bae"
+    },
+    {
+      "id": "OFFERING",
+      "name": "비상 출력",
+      "file": "offering.webp",
+      "sheet": "ironclad-2",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 821,
+        "width": 299,
+        "height": 199
+      },
+      "bytes": 26124,
+      "sha256": "62d9f92f372930dadd11e212ff99f4cec494fdf3862e6b8dfb668b4d8995ae24"
+    },
+    {
+      "id": "PERFECTED_STRIKE",
+      "name": "기본기의 빛",
+      "file": "perfected_strike.webp",
+      "sheet": "ironclad-2",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 821,
+        "width": 299,
+        "height": 199
+      },
+      "bytes": 36830,
+      "sha256": "66c473f2ca3aed7c6b5ce8387c0ddae0811e0cb058b1d1609ecd86e2385e302c"
+    },
+    {
+      "id": "POMMEL_STRIKE",
+      "name": "검자루 반격",
+      "file": "pommel_strike.webp",
+      "sheet": "ironclad-3",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 307,
+        "height": 195
+      },
+      "bytes": 32510,
+      "sha256": "a4a9b34c8af9f90380f05c7727bd7bcd5bb09a297297dd31c26a1cf49c8b26d6"
+    },
+    {
+      "id": "POWER_THROUGH",
+      "name": "예비 방패",
+      "file": "power_through.webp",
+      "sheet": "ironclad-3",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 319,
+        "top": 4,
+        "width": 294,
+        "height": 195
+      },
+      "bytes": 30402,
+      "sha256": "a18e521abf2e43ee123376122640dc60d8cab011c109eb52842e1d4bf0616960"
+    },
+    {
+      "id": "PUMMEL",
+      "name": "광검 속주",
+      "file": "pummel.webp",
+      "sheet": "ironclad-3",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 621,
+        "top": 4,
+        "width": 296,
+        "height": 195
+      },
+      "bytes": 40978,
+      "sha256": "be66dc0bcd6cf57497bc735634546742458ce7b47815411c26c20102b139d507"
+    },
+    {
+      "id": "RAGE",
+      "name": "연격 방진",
+      "file": "rage.webp",
+      "sheet": "ironclad-3",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 925,
+        "top": 4,
+        "width": 297,
+        "height": 195
+      },
+      "bytes": 41032,
+      "sha256": "d834b76bb0c6589b625f270c399cab2aa270f21ac31153512239527c82ad188a"
+    },
+    {
+      "id": "RAMPAGE",
+      "name": "성장하는 검광",
+      "file": "rampage.webp",
+      "sheet": "ironclad-3",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 4,
+        "width": 302,
+        "height": 195
+      },
+      "bytes": 28240,
+      "sha256": "d0647d32bb1b746056e5755da03f93f97f4e794f82d6ef65edfb16b54ec48ffe"
+    },
+    {
+      "id": "REAPER",
+      "name": "넓은 회수광",
+      "file": "reaper.webp",
+      "sheet": "ironclad-3",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 207,
+        "width": 307,
+        "height": 196
+      },
+      "bytes": 38528,
+      "sha256": "e5310296f351a5ea5cad6b9fe6e77cc709671ac7128032144c7f429b6d7cf6ce"
+    },
+    {
+      "id": "RECKLESS_CHARGE",
+      "name": "전력 질주",
+      "file": "reckless_charge.webp",
+      "sheet": "ironclad-3",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 319,
+        "top": 207,
+        "width": 294,
+        "height": 196
+      },
+      "bytes": 31192,
+      "sha256": "a4721ae37f827ab6b645e565aa01566a9ab18b9ef32c2808596583a250451824"
+    },
+    {
+      "id": "RUPTURE",
+      "name": "비상 충전 회로",
+      "file": "rupture.webp",
+      "sheet": "ironclad-3",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 621,
+        "top": 207,
+        "width": 296,
+        "height": 196
+      },
+      "bytes": 28998,
+      "sha256": "ee32b54a3b7b5d9fc935a8c95e3a81bbdf89130c5a0188153fe562cf78258127"
+    },
+    {
+      "id": "SEARING_BLOW",
+      "name": "빛벼림",
+      "file": "searing_blow.webp",
+      "sheet": "ironclad-3",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 925,
+        "top": 207,
+        "width": 297,
+        "height": 196
+      },
+      "bytes": 33696,
+      "sha256": "72be01fee55dc470fe1b35260ddee48eea19cadd2c4962cf44d876fb865470d3"
+    },
+    {
+      "id": "SECOND_WIND",
+      "name": "새로운 숨결",
+      "file": "second_wind.webp",
+      "sheet": "ironclad-3",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 207,
+        "width": 302,
+        "height": 196
+      },
+      "bytes": 32984,
+      "sha256": "7a5e2afe0fbdb8deca5c2f1e129417478a2b628dead8f8fd079e67fb6477da3b"
+    },
+    {
+      "id": "SEEING_RED",
+      "name": "동력 예열",
+      "file": "seeing_red.webp",
+      "sheet": "ironclad-3",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 411,
+        "width": 307,
+        "height": 190
+      },
+      "bytes": 32248,
+      "sha256": "06b1e70129a7c16751661385b832f6731b88d814c8301d0ffbc83cb09d5427f0"
+    },
+    {
+      "id": "SENTINEL",
+      "name": "예비 충전판",
+      "file": "sentinel.webp",
+      "sheet": "ironclad-3",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 319,
+        "top": 411,
+        "width": 294,
+        "height": 190
+      },
+      "bytes": 28730,
+      "sha256": "9d0d2bfac31fcc4303641c277bc9c7651f6dbe2a5a78afb12d71bb923372f976"
+    },
+    {
+      "id": "SEVER_SOUL",
+      "name": "광검 정리술",
+      "file": "sever_soul.webp",
+      "sheet": "ironclad-3",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 621,
+        "top": 411,
+        "width": 296,
+        "height": 190
+      },
+      "bytes": 39898,
+      "sha256": "bb67760e808f047791c548ca5b824a52056a879d485a1518ef999d0fd914939c"
+    },
+    {
+      "id": "SHOCKWAVE",
+      "name": "수호의 진동",
+      "file": "shockwave.webp",
+      "sheet": "ironclad-3",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 925,
+        "top": 411,
+        "width": 297,
+        "height": 190
+      },
+      "bytes": 37602,
+      "sha256": "fcb431cc601bc385dde5550f12dd87b42b36f71a7ca1a24072e4f2311e944ca5"
+    },
+    {
+      "id": "SHRUG_IT_OFF",
+      "name": "든든한 버팀",
+      "file": "shrug_it_off.webp",
+      "sheet": "ironclad-3",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 411,
+        "width": 302,
+        "height": 190
+      },
+      "bytes": 31138,
+      "sha256": "f4e729880da326ec8d1069995dcee0890b28d64cf92375c44e43b969943ac2a6"
+    },
+    {
+      "id": "SPOT_WEAKNESS",
+      "name": "빈틈 관측",
+      "file": "spot_weakness.webp",
+      "sheet": "ironclad-3",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 609,
+        "width": 307,
+        "height": 181
+      },
+      "bytes": 28430,
+      "sha256": "c4ab626fc97fed871edd3108b92fbd89a90d58edfef6f236a8f57688f04dfb3d"
+    },
+    {
+      "id": "STRIKE_R",
+      "name": "광검 베기",
+      "file": "strike_r.webp",
+      "sheet": "ironclad-3",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 319,
+        "top": 609,
+        "width": 294,
+        "height": 181
+      },
+      "bytes": 32786,
+      "sha256": "33513b00cc7c9fab90206124131fc01445af95771810a598b8f3c33255c124f7"
+    },
+    {
+      "id": "SWORD_BOOMERANG",
+      "name": "회전 광날",
+      "file": "sword_boomerang.webp",
+      "sheet": "ironclad-3",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 621,
+        "top": 609,
+        "width": 296,
+        "height": 181
+      },
+      "bytes": 28646,
+      "sha256": "fcdfdc0df1cd66ba22623f93a0f6e390cf13358551d7d5dc8d73d6206a3c7354"
+    },
+    {
+      "id": "THUNDERCLAP",
+      "name": "천광 울림",
+      "file": "thunderclap.webp",
+      "sheet": "ironclad-3",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 925,
+        "top": 609,
+        "width": 297,
+        "height": 181
+      },
+      "bytes": 33518,
+      "sha256": "084e25f11d70c6865ba02adcafeca96f73d2ee0783efa2f84f5b5282a9f42382"
+    },
+    {
+      "id": "TRUE_GRIT",
+      "name": "수호의 정리",
+      "file": "true_grit.webp",
+      "sheet": "ironclad-3",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 609,
+        "width": 302,
+        "height": 181
+      },
+      "bytes": 26204,
+      "sha256": "ddd9833112d622c10cab85841bd6cfedfd2038f1274d554b43ebdda9cbee9be3"
+    },
+    {
+      "id": "TWIN_STRIKE",
+      "name": "두 줄기 검광",
+      "file": "twin_strike.webp",
+      "sheet": "ironclad-3",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 798,
+        "width": 307,
+        "height": 222
+      },
+      "bytes": 40014,
+      "sha256": "b4d1d7c6c684aa049bbf27006e83893c9be3af7f8c5e158d11132e500f97f610"
+    },
+    {
+      "id": "UPPERCUT",
+      "name": "상승 검풍",
+      "file": "uppercut.webp",
+      "sheet": "ironclad-3",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 319,
+        "top": 798,
+        "width": 294,
+        "height": 222
+      },
+      "bytes": 38708,
+      "sha256": "2e4e1224f719557286fcb201337c09661f482bb6c6ae1c7ab4e88a05b834c845"
+    },
+    {
+      "id": "WARCRY",
+      "name": "수호 신호",
+      "file": "warcry.webp",
+      "sheet": "ironclad-3",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 621,
+        "top": 798,
+        "width": 296,
+        "height": 222
+      },
+      "bytes": 36170,
+      "sha256": "b7bb80cbe1fbc6f9729fbaa6da4f9e6f1247b5740e76535d215ee69184d58075"
+    },
+    {
+      "id": "WHIRLWIND",
+      "name": "회오리 검광",
+      "file": "whirlwind.webp",
+      "sheet": "ironclad-3",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 925,
+        "top": 798,
+        "width": 297,
+        "height": 222
+      },
+      "bytes": 46574,
+      "sha256": "4878d6f0773df4c332fb0a96a2b9e1fbe125eb72ede12f705ba4cfe6d461af8e"
+    },
+    {
+      "id": "WILD_STRIKE",
+      "name": "큰 보폭",
+      "file": "wild_strike.webp",
+      "sheet": "ironclad-3",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 798,
+        "width": 302,
+        "height": 222
+      },
+      "bytes": 42154,
+      "sha256": "1f954a001542d3e015769beb33a98e2203bb34d85133fba9d7dc69ee9baa2fc7"
+    },
+    {
+      "id": "ACCURACY",
+      "name": "별빛 조준",
+      "file": "accuracy.webp",
+      "sheet": "silent-1",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 316,
+        "height": 169
+      },
+      "bytes": 20792,
+      "sha256": "e6582e846ae9a9f1cedf261574ffb111acf0efac2d552dfad5178db7d7caf0ef"
+    },
+    {
+      "id": "ACROBATICS",
+      "name": "난간 도약",
+      "file": "acrobatics.webp",
+      "sheet": "silent-1",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 328,
+        "top": 4,
+        "width": 316,
+        "height": 169
+      },
+      "bytes": 25358,
+      "sha256": "b42496256db97fecc4c30473fcaba321c0b7f23a93a15e9f36daab33913fa4b9"
+    },
+    {
+      "id": "ADRENALINE",
+      "name": "바람 시동",
+      "file": "adrenaline.webp",
+      "sheet": "silent-1",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 652,
+        "top": 4,
+        "width": 315,
+        "height": 169
+      },
+      "bytes": 24466,
+      "sha256": "7f96b0bd617061c747e254a5d30770f2c8a0419ae8e745464ec3533dbf2d2473"
+    },
+    {
+      "id": "AFTER_IMAGE",
+      "name": "은빛 발자국",
+      "file": "after_image.webp",
+      "sheet": "silent-1",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 4,
+        "width": 316,
+        "height": 169
+      },
+      "bytes": 13962,
+      "sha256": "27a3c2f7b0c7071982af807bfd32e68f808126acb68dedd3841185c8975d4ac9"
+    },
+    {
+      "id": "ALL_OUT_ATTACK",
+      "name": "달무리 휩쓸기",
+      "file": "all_out_attack.webp",
+      "sheet": "silent-1",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 4,
+        "width": 316,
+        "height": 169
+      },
+      "bytes": 28320,
+      "sha256": "15101f53af24e26dc280d0f27e6ef2a37a1a4e0ce8082f89b7dfa51310baa994"
+    },
+    {
+      "id": "A_THOUSAND_CUTS",
+      "name": "천 갈래 달빛",
+      "file": "a_thousand_cuts.webp",
+      "sheet": "silent-1",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 181,
+        "width": 316,
+        "height": 172
+      },
+      "bytes": 32962,
+      "sha256": "67990bbf24ad6d0f7af0592f1087fa4bb9bf9b58b556e4954ca4f520a03d98ca"
+    },
+    {
+      "id": "BACKFLIP",
+      "name": "초승달 회전",
+      "file": "backflip.webp",
+      "sheet": "silent-1",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 328,
+        "top": 181,
+        "width": 316,
+        "height": 172
+      },
+      "bytes": 21260,
+      "sha256": "b1827f3d2c260fdd00333f3507f6e8620f1d89b3c95686c0bf3c0d7839b5b6d2"
+    },
+    {
+      "id": "BACKSTAB",
+      "name": "그림자 선봉",
+      "file": "backstab.webp",
+      "sheet": "silent-1",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 652,
+        "top": 181,
+        "width": 315,
+        "height": 172
+      },
+      "bytes": 10238,
+      "sha256": "1ce12faccb94ce6ab0c9328a35c4e8df67e0e9646e39525b5cfac1c506f29ef6"
+    },
+    {
+      "id": "BANE",
+      "name": "표식 추적",
+      "file": "bane.webp",
+      "sheet": "silent-1",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 181,
+        "width": 316,
+        "height": 172
+      },
+      "bytes": 23460,
+      "sha256": "8b56158757823df1d49e150d373dbe0214f71d86ff9cf15631c9d3b2322a38cd"
+    },
+    {
+      "id": "BLADE_DANCE",
+      "name": "달날 전개",
+      "file": "blade_dance.webp",
+      "sheet": "silent-1",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 181,
+        "width": 316,
+        "height": 172
+      },
+      "bytes": 26218,
+      "sha256": "4aa0962589b933935504af28ebd5e52684ca0961a63627d631c150a276108af3"
+    },
+    {
+      "id": "BLUR",
+      "name": "안개 걸음",
+      "file": "blur.webp",
+      "sheet": "silent-1",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 361,
+        "width": 316,
+        "height": 175
+      },
+      "bytes": 21302,
+      "sha256": "f2d697a02550b1bf776bda5162c8aec9f12c875300d563a626d06c1781d7d31d"
+    },
+    {
+      "id": "BOUNCING_FLASK",
+      "name": "도약 표식탄",
+      "file": "bouncing_flask.webp",
+      "sheet": "silent-1",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 328,
+        "top": 361,
+        "width": 316,
+        "height": 175
+      },
+      "bytes": 22366,
+      "sha256": "0421145e2e76e5b4ac8a23fed23fe3b3de85281d19630e54f951022f956c3e49"
+    },
+    {
+      "id": "BULLET_TIME",
+      "name": "고요한 시계",
+      "file": "bullet_time.webp",
+      "sheet": "silent-1",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 652,
+        "top": 361,
+        "width": 315,
+        "height": 175
+      },
+      "bytes": 28142,
+      "sha256": "262cef85b94b75eb5b174868c9cb3845eec768df2b56a4a43400e602d618a314"
+    },
+    {
+      "id": "BURST",
+      "name": "이중 설계",
+      "file": "burst.webp",
+      "sheet": "silent-1",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 361,
+        "width": 316,
+        "height": 175
+      },
+      "bytes": 34226,
+      "sha256": "e4099b8e65c53cd4b2067673e71cfb57e4285a6ae4e6421abf017f88c8b672ba"
+    },
+    {
+      "id": "CALCULATED_GAMBLE",
+      "name": "전술 재배치",
+      "file": "calculated_gamble.webp",
+      "sheet": "silent-1",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 361,
+        "width": 316,
+        "height": 175
+      },
+      "bytes": 23958,
+      "sha256": "7e52d19a25937ac8b273ab8a11e6058a2d914b538d2dcbdd5925e5d3e5793d2d"
+    },
+    {
+      "id": "CALTROPS",
+      "name": "달조각 진형",
+      "file": "caltrops.webp",
+      "sheet": "silent-1",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 544,
+        "width": 316,
+        "height": 178
+      },
+      "bytes": 23714,
+      "sha256": "820973cc4693799f95ce26959b0d8265dbb56a47c755fe140899ce95429f755b"
+    },
+    {
+      "id": "CATALYST",
+      "name": "표식 증폭기",
+      "file": "catalyst.webp",
+      "sheet": "silent-1",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 328,
+        "top": 544,
+        "width": 316,
+        "height": 178
+      },
+      "bytes": 27466,
+      "sha256": "9dcd188ef1a6da891120dc36d141e235b65bcde98a22abc452025d0c43714bbb"
+    },
+    {
+      "id": "CHOKE",
+      "name": "연계의 고리",
+      "file": "choke.webp",
+      "sheet": "silent-1",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 652,
+        "top": 544,
+        "width": 315,
+        "height": 178
+      },
+      "bytes": 19392,
+      "sha256": "e2c0ed786e1871ddf913884bc7221fcd1dd5a070629801f95f42c211d4964d18"
+    },
+    {
+      "id": "CLOAK_AND_DAGGER",
+      "name": "별망토와 달날",
+      "file": "cloak_and_dagger.webp",
+      "sheet": "silent-1",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 544,
+        "width": 316,
+        "height": 178
+      },
+      "bytes": 21234,
+      "sha256": "ac80b46c3406b0e97d83142f6113e73c2cd2c6981e47a4eb30ded9cf4bbdf262"
+    },
+    {
+      "id": "CONCENTRATE",
+      "name": "신호 압축",
+      "file": "concentrate.webp",
+      "sheet": "silent-1",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 544,
+        "width": 316,
+        "height": 178
+      },
+      "bytes": 26560,
+      "sha256": "dc99dc61e1b19c4607d27412b1c05659b32f7b06e64573350e2de925a96ef145"
+    },
+    {
+      "id": "CORPSE_EXPLOSION",
+      "name": "표식 연쇄",
+      "file": "corpse_explosion.webp",
+      "sheet": "silent-1",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 730,
+        "width": 316,
+        "height": 237
+      },
+      "bytes": 29360,
+      "sha256": "7becfb703eced214da22d801447f441e746104d50f747da25f69a88e0331a11d"
+    },
+    {
+      "id": "CRIPPLING_POISON",
+      "name": "둔화 표식",
+      "file": "crippling_poison.webp",
+      "sheet": "silent-1",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 328,
+        "top": 730,
+        "width": 316,
+        "height": 237
+      },
+      "bytes": 34394,
+      "sha256": "4e0489cf9396bbc8eb26a705ebf0b2805f2c30cda33bf1b21043ad10460fd810"
+    },
+    {
+      "id": "DAGGER_SPRAY",
+      "name": "달날 교차",
+      "file": "dagger_spray.webp",
+      "sheet": "silent-1",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 652,
+        "top": 730,
+        "width": 315,
+        "height": 237
+      },
+      "bytes": 34928,
+      "sha256": "41fc521f037d6bf16e8e39fe704c45eb75c7c0dba79d645af989c0b50cfd1862"
+    },
+    {
+      "id": "DAGGER_THROW",
+      "name": "초승달 투척",
+      "file": "dagger_throw.webp",
+      "sheet": "silent-1",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 730,
+        "width": 316,
+        "height": 237
+      },
+      "bytes": 24222,
+      "sha256": "16edd971b77c90b9b68a0cf98bd0ccc27727a687ede707c57a32813347ee0a38"
+    },
+    {
+      "id": "DASH",
+      "name": "밤바람 돌진",
+      "file": "dash.webp",
+      "sheet": "silent-1",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 730,
+        "width": 316,
+        "height": 237
+      },
+      "bytes": 40130,
+      "sha256": "f2dd7f8420cc24c7fec32c4acb596c86da729d1cc088ef841bac56ee793c1cd9"
+    },
+    {
+      "id": "DEADLY_POISON",
+      "name": "지속 표식",
+      "file": "deadly_poison.webp",
+      "sheet": "silent-2",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 35586,
+      "sha256": "04504e18f8b88bec294c450942d5c294a7b59263a561145aeac2918790ffb396"
+    },
+    {
+      "id": "DEFEND_G",
+      "name": "달그늘 방어",
+      "file": "defend_g.webp",
+      "sheet": "silent-2",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 31548,
+      "sha256": "181b85ecb881675d2efa24f275bbf3731e22d2f212a303bf6e2ebf993550022a"
+    },
+    {
+      "id": "DEFLECT",
+      "name": "비껴 받기",
+      "file": "deflect.webp",
+      "sheet": "silent-2",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 4,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 34728,
+      "sha256": "ebe0af4038fa7074856a9e12d7bf2e93c415ca45dbb18c261aab663af900ceb1"
+    },
+    {
+      "id": "DIE_DIE_DIE",
+      "name": "은하 궤적",
+      "file": "die_die_die.webp",
+      "sheet": "silent-2",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 33352,
+      "sha256": "2d46f63040e18251fcd7ce6564f9eac4ea36741da18433d2c855d0bf82f23618"
+    },
+    {
+      "id": "DISTRACTION",
+      "name": "작은 착상",
+      "file": "distraction.webp",
+      "sheet": "silent-2",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 30134,
+      "sha256": "aaea8743be97a177f44b72eddb23303b07e1b1b2fa6524c0ad2de3facc7d7572"
+    },
+    {
+      "id": "DODGE_AND_ROLL",
+      "name": "바람 구르기",
+      "file": "dodge_and_roll.webp",
+      "sheet": "silent-2",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 36494,
+      "sha256": "2f410c3b30c948db59e93dd0ef69bca1726d555aa98a9ab81e83c5b4613d3923"
+    },
+    {
+      "id": "DOPPELGANGER",
+      "name": "내일의 준비",
+      "file": "doppelganger.webp",
+      "sheet": "silent-2",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 32210,
+      "sha256": "748495ddafce77763046d5e5b8478a2db6b5751a8b2e9127eaff2cc77a29adb0"
+    },
+    {
+      "id": "ENDLESS_AGONY",
+      "name": "작은 반짝임",
+      "file": "endless_agony.webp",
+      "sheet": "silent-2",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 209,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 33548,
+      "sha256": "b8a5b5f7517fc8a4b40ff4dc5d6071ab86155a05b4aa7cb414f4fcde00e42cb2"
+    },
+    {
+      "id": "ENVENOM",
+      "name": "표식 코팅",
+      "file": "envenom.webp",
+      "sheet": "silent-2",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 37494,
+      "sha256": "c7adb30dcc310fe82417daf1ce5cbf2362365c4ff488eff87169dc00ea388453"
+    },
+    {
+      "id": "ESCAPE_PLAN",
+      "name": "지름길 탐색",
+      "file": "escape_plan.webp",
+      "sheet": "silent-2",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 35760,
+      "sha256": "120f9027853660beb3ec3e9af0392578fabd63095fb0ea513dafd184e3213e2f"
+    },
+    {
+      "id": "EVISCERATE",
+      "name": "삼연 월광",
+      "file": "eviscerate.webp",
+      "sheet": "silent-2",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 39850,
+      "sha256": "d59b7ebe9b43ac445220b4c81897300e901d8ba697e4db348e7714c684ba0223"
+    },
+    {
+      "id": "EXPERTISE",
+      "name": "도구함 정리",
+      "file": "expertise.webp",
+      "sheet": "silent-2",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 44916,
+      "sha256": "7028558e7aeb6a74448852a8f6834cb500d669581f6d1712b077a65995174e36"
+    },
+    {
+      "id": "FINISHER",
+      "name": "마지막 박자",
+      "file": "finisher.webp",
+      "sheet": "silent-2",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 414,
+        "width": 300,
+        "height": 196
+      },
+      "bytes": 32436,
+      "sha256": "907c37cb0e43738d26ec682b89ad4d5a6a388d5ad78f3ac9401642eb5ba8e18a"
+    },
+    {
+      "id": "FLECHETTES",
+      "name": "도구의 궤도",
+      "file": "flechettes.webp",
+      "sheet": "silent-2",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 40916,
+      "sha256": "f4ca59436e55da4b4ad35e07f5016787b9d911616d2ec5a96a4b9c9713e95671"
+    },
+    {
+      "id": "FLYING_KNEE",
+      "name": "높은 발돋움",
+      "file": "flying_knee.webp",
+      "sheet": "silent-2",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 32138,
+      "sha256": "f84325fcbe79eae607709aa5f49f16fb32bf6c3c99c74e28f4ffb66ab335d242"
+    },
+    {
+      "id": "FOOTWORK",
+      "name": "달빛 보법",
+      "file": "footwork.webp",
+      "sheet": "silent-2",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 618,
+        "width": 299,
+        "height": 182
+      },
+      "bytes": 24436,
+      "sha256": "86dd3afa2adc87164ab6c7f1c185e0b565f19528eb132a5c32ea62e53b20e57c"
+    },
+    {
+      "id": "GLASS_KNIFE",
+      "name": "수정 쌍날",
+      "file": "glass_knife.webp",
+      "sheet": "silent-2",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 618,
+        "width": 299,
+        "height": 182
+      },
+      "bytes": 34376,
+      "sha256": "c8c81a54836849d8c3c92a89ade3f88bd63e4bfc950a42386f67967a8041d25a"
+    },
+    {
+      "id": "GRAND_FINALE",
+      "name": "빈 하늘의 별",
+      "file": "grand_finale.webp",
+      "sheet": "silent-2",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 618,
+        "width": 300,
+        "height": 182
+      },
+      "bytes": 26524,
+      "sha256": "e6fab708232fd0388a3f9049cd3f076d533f028f18a4122ffc1d3489b77305dd"
+    },
+    {
+      "id": "HEEL_HOOK",
+      "name": "균형 읽기",
+      "file": "heel_hook.webp",
+      "sheet": "silent-2",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 618,
+        "width": 299,
+        "height": 182
+      },
+      "bytes": 30406,
+      "sha256": "b1382264a6d8cce1d5cb97f0262584776d54bc390f21756812c66243df14973b"
+    },
+    {
+      "id": "INFINITE_BLADES",
+      "name": "달날 공급기",
+      "file": "infinite_blades.webp",
+      "sheet": "silent-2",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 618,
+        "width": 299,
+        "height": 182
+      },
+      "bytes": 33078,
+      "sha256": "ded477c509d97ade67dbdbc80784ad5196e3344c3a0fb40fb35d9a284043380b"
+    },
+    {
+      "id": "LEG_SWEEP",
+      "name": "넓은 회피",
+      "file": "leg_sweep.webp",
+      "sheet": "silent-2",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 808,
+        "width": 299,
+        "height": 212
+      },
+      "bytes": 42560,
+      "sha256": "a6c8cf55c870fa114bdab187dd3c3b461737e73aa3feda743f465e604a6bee19"
+    },
+    {
+      "id": "MALAISE",
+      "name": "느린 별자리",
+      "file": "malaise.webp",
+      "sheet": "silent-2",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 808,
+        "width": 299,
+        "height": 212
+      },
+      "bytes": 30756,
+      "sha256": "455e64838c264359e5641d62ad30f4cd55bd33a81faba32db7bddf9475582881"
+    },
+    {
+      "id": "MASTERFUL_STAB",
+      "name": "정확한 첫날",
+      "file": "masterful_stab.webp",
+      "sheet": "silent-2",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 618,
+        "top": 808,
+        "width": 300,
+        "height": 212
+      },
+      "bytes": 33074,
+      "sha256": "a6368a8d0b562c580e2ba3726cbd21969d132ff3ac3f875788f67ee8bc1d89a7"
+    },
+    {
+      "id": "NEUTRALIZE",
+      "name": "진로 견제",
+      "file": "neutralize.webp",
+      "sheet": "silent-2",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 808,
+        "width": 299,
+        "height": 212
+      },
+      "bytes": 39834,
+      "sha256": "3a25d88b97e28f03760760a25cf50623452bf58d5c6930838d02b585effb3b65"
+    },
+    {
+      "id": "NIGHT_TERROR",
+      "name": "세 갈래 계획",
+      "file": "night_terror.webp",
+      "sheet": "silent-2",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 808,
+        "width": 299,
+        "height": 212
+      },
+      "bytes": 36914,
+      "sha256": "e517dee9332f14d9bb9c9a0dac5d0c4115ad0788f4cadfbc464610c6e562cf78"
+    },
+    {
+      "id": "NOXIOUS_FUMES",
+      "name": "안개 표식기",
+      "file": "noxious_fumes.webp",
+      "sheet": "silent-3",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 30374,
+      "sha256": "5bfbf148a057ef03085b1b0053e2737b764327a1401c2b2bfcc1eebc34828014"
+    },
+    {
+      "id": "OUTMANEUVER",
+      "name": "한발 앞선 준비",
+      "file": "outmaneuver.webp",
+      "sheet": "silent-3",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 4,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 36610,
+      "sha256": "68d8f352681b775b31cbea06dddb80c91eeb9e3e868429c51901c7da28f01cf9"
+    },
+    {
+      "id": "PHANTASMAL_KILLER",
+      "name": "내일의 월광",
+      "file": "phantasmal_killer.webp",
+      "sheet": "silent-3",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 27344,
+      "sha256": "f89c343bd7ce1d4c8bf5b801823688ca0075a7c2c494daa041a113482fbd5fb4"
+    },
+    {
+      "id": "PIERCINGWAIL",
+      "name": "고요의 신호",
+      "file": "piercingwail.webp",
+      "sheet": "silent-3",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 33934,
+      "sha256": "3f2a42e777d4d198e5cfa0a567eb57e6820bf82f3ff726cb44af596904ae1cb1"
+    },
+    {
+      "id": "POISONED_STAB",
+      "name": "달빛 각인",
+      "file": "poisoned_stab.webp",
+      "sheet": "silent-3",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 4,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 21728,
+      "sha256": "b71694288009ee65b2e9adf49259f7f1b723973426df887051c4184efd35c17d"
+    },
+    {
+      "id": "PREDATOR",
+      "name": "선봉 정찰",
+      "file": "predator.webp",
+      "sheet": "silent-3",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 28662,
+      "sha256": "35f42b08623c73d1edd4aa80ea581ae468abc5268bd88b1be65e9c1d3db9db6a"
+    },
+    {
+      "id": "PREPARED",
+      "name": "손패 점검",
+      "file": "prepared.webp",
+      "sheet": "silent-3",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 209,
+        "width": 300,
+        "height": 197
+      },
+      "bytes": 32812,
+      "sha256": "7bdb0050c02e3384f17e81cdccac5100d7ff8f0659c0c56de63ee5678f032505"
+    },
+    {
+      "id": "QUICK_SLASH",
+      "name": "한 줄기 바람",
+      "file": "quick_slash.webp",
+      "sheet": "silent-3",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 31960,
+      "sha256": "326cf0a8e2368deeb53a2fd5a7fff8f56cc8ccf35b86c8fdc1795e4fef51eb98"
+    },
+    {
+      "id": "RIDDLE_WITH_HOLES",
+      "name": "다섯 초승달",
+      "file": "riddle_with_holes.webp",
+      "sheet": "silent-3",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 25556,
+      "sha256": "c78595d68d625604c633841a3173ba012cb142cf2d7d5303fdc9281e1bbe4e41"
+    },
+    {
+      "id": "SETUP",
+      "name": "다음 수 배치",
+      "file": "setup.webp",
+      "sheet": "silent-3",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 209,
+        "width": 299,
+        "height": 197
+      },
+      "bytes": 38524,
+      "sha256": "d4f3951cb59035844899b76a8f4c07d4a3809ee1660d018e0dcdce1fda715856"
+    },
+    {
+      "id": "SKEWER",
+      "name": "초승달 연발",
+      "file": "skewer.webp",
+      "sheet": "silent-3",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 27184,
+      "sha256": "f61e75de2a340cc8745855a19eb1571aa27e476ae04402579fc4be1d509fc574"
+    },
+    {
+      "id": "SLICE",
+      "name": "달빛 스침",
+      "file": "slice.webp",
+      "sheet": "silent-3",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 414,
+        "width": 300,
+        "height": 196
+      },
+      "bytes": 26122,
+      "sha256": "d65b03e6b572ddd2991e18f9f832f5b220ddbf1abff743fc8a9d5b58a99a0794"
+    },
+    {
+      "id": "STORM_OF_STEEL",
+      "name": "달날 별무리",
+      "file": "storm_of_steel.webp",
+      "sheet": "silent-3",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 36586,
+      "sha256": "b5b706ea26d847263c3081a5da92e50dfbfb5f0e625ab26d22e8f175f7013b57"
+    },
+    {
+      "id": "STRIKE_G",
+      "name": "월광 베기",
+      "file": "strike_g.webp",
+      "sheet": "silent-3",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 29694,
+      "sha256": "dcbfcaa10336be6e1f82eb511de63fa5a8425f0056bee58e73530f8b7a14ee96"
+    },
+    {
+      "id": "SUCKER_PUNCH",
+      "name": "틈새 견제",
+      "file": "sucker_punch.webp",
+      "sheet": "silent-3",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 414,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 25088,
+      "sha256": "cd0710a4eb1581ba192576508e49ec0a8e1271cb3af28823cccb927321031072"
+    },
+    {
+      "id": "SURVIVOR",
+      "name": "침착한 정비",
+      "file": "survivor.webp",
+      "sheet": "silent-3",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 618,
+        "width": 299,
+        "height": 192
+      },
+      "bytes": 29344,
+      "sha256": "647be668020dc17ed0b5b971c533c4c9eb30a0d0b5c138a16696c6ea8efcee63"
+    },
+    {
+      "id": "REFLEX",
+      "name": "즉석 대응",
+      "file": "reflex.webp",
+      "sheet": "silent-3",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 618,
+        "width": 300,
+        "height": 192
+      },
+      "bytes": 23480,
+      "sha256": "71e6a715896a64aa23c0b80f5eaa10258966f25fc8cba8f8a3726c16cdd37f89"
+    },
+    {
+      "id": "TACTICIAN",
+      "name": "준비된 대응",
+      "file": "tactician.webp",
+      "sheet": "silent-3",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 618,
+        "width": 299,
+        "height": 192
+      },
+      "bytes": 23486,
+      "sha256": "ce5c9c1c367b83fb12c0c2145c5f4f9358aa7823811806c67dca33fdf4acf38d"
+    },
+    {
+      "id": "TERROR",
+      "name": "선명한 표적",
+      "file": "terror.webp",
+      "sheet": "silent-3",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 618,
+        "width": 299,
+        "height": 192
+      },
+      "bytes": 31400,
+      "sha256": "6979356785a91359ff5610d2aec67292c4f3698413baff2c78e66ea48b6307a1"
+    },
+    {
+      "id": "TOOLS_OF_THE_TRADE",
+      "name": "정찰 도구대",
+      "file": "tools_of_the_trade.webp",
+      "sheet": "silent-3",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 618,
+        "width": 299,
+        "height": 192
+      },
+      "bytes": 35576,
+      "sha256": "a2db3dbf8d8466390e1bf060f9b6246f018914d707e5aa1b541ddd6b15d7fdbb"
+    },
+    {
+      "id": "UNDERHANDED_STRIKE",
+      "name": "되돌아온 달날",
+      "file": "underhanded_strike.webp",
+      "sheet": "silent-3",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 818,
+        "width": 299,
+        "height": 202
+      },
+      "bytes": 30824,
+      "sha256": "fbf9b3bfa6d851e6c29c3674865ea410ac9bd36016ae4acba48f977cb5d117a5"
+    },
+    {
+      "id": "UNLOAD",
+      "name": "도구함 전개",
+      "file": "unload.webp",
+      "sheet": "silent-3",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 311,
+        "top": 818,
+        "width": 300,
+        "height": 202
+      },
+      "bytes": 42668,
+      "sha256": "e4a2c1b97ba5e5d85713844aa0c5152d25fda4594e5f1dfb0ce3d8ab3ce021d9"
+    },
+    {
+      "id": "VENOMOLOGY",
+      "name": "전술 공방",
+      "file": "venomology.webp",
+      "sheet": "silent-3",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 818,
+        "width": 299,
+        "height": 202
+      },
+      "bytes": 37944,
+      "sha256": "778e8d70ed2820404f957f9a0d0a5cef3178f3e1734a22349ef0684aabbc43b3"
+    },
+    {
+      "id": "WELL_LAID_PLANS",
+      "name": "남겨 둔 계획",
+      "file": "well_laid_plans.webp",
+      "sheet": "silent-3",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 818,
+        "width": 299,
+        "height": 202
+      },
+      "bytes": 33742,
+      "sha256": "53cd85dcc95b2613865cd56eca322e4f2ac9ee6b4a80016ce0dec6832efb4c03"
+    },
+    {
+      "id": "WRAITH_FORM_V2",
+      "name": "달무리 보호복",
+      "file": "wraith_form_v2.webp",
+      "sheet": "silent-3",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1233,
+        "top": 818,
+        "width": 299,
+        "height": 202
+      },
+      "bytes": 22908,
+      "sha256": "cbe08307013e34c27f3b98eb4b85794906ad63c0a8a1dfd6dfd3dd6c9f9915c9"
+    },
+    {
+      "id": "APOTHEOSIS",
+      "name": "별지도 완성",
+      "file": "apotheosis.webp",
+      "sheet": "shared-1",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 315,
+        "height": 188
+      },
+      "bytes": 36582,
+      "sha256": "e7208082a9f28a2226018e7c499e5be99456fa4add6996f23fcf2b03777b008c"
+    },
+    {
+      "id": "ASCENDERSBANE",
+      "name": "무거운 배낭",
+      "file": "ascendersbane.webp",
+      "sheet": "shared-1",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 327,
+        "top": 4,
+        "width": 311,
+        "height": 188
+      },
+      "bytes": 34400,
+      "sha256": "1bd094f9aad29594345bb4190cc9597f3a119394b9ddad508cedf98a36add638"
+    },
+    {
+      "id": "BANDAGE_UP",
+      "name": "보호장치 수리",
+      "file": "bandage_up.webp",
+      "sheet": "shared-1",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 646,
+        "top": 4,
+        "width": 321,
+        "height": 188
+      },
+      "bytes": 26036,
+      "sha256": "90f1bd1a5341f6ff8d3eec4863d6b40a32eb703daa47e1f2993965b38307650d"
+    },
+    {
+      "id": "BITE",
+      "name": "회수의 빛",
+      "file": "bite.webp",
+      "sheet": "shared-1",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 4,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 26582,
+      "sha256": "0c9c7a44e05a9635e5a83cfe70c3e29cf6e57019b7daa4314feb8cc7da82dc2c"
+    },
+    {
+      "id": "BLIND",
+      "name": "빛가루 장막",
+      "file": "blind.webp",
+      "sheet": "shared-1",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 4,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 21578,
+      "sha256": "e189ee51a8dcbb738f026125144ff88c54f363243d2d8db58541aa4c7f393851"
+    },
+    {
+      "id": "BURN",
+      "name": "과열",
+      "file": "burn.webp",
+      "sheet": "shared-1",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 200,
+        "width": 315,
+        "height": 185
+      },
+      "bytes": 31306,
+      "sha256": "d8760d67300299f11500dd5cc9ca53329bf85863ac49aa499baec2de6b287e98"
+    },
+    {
+      "id": "CHRYSALIS",
+      "name": "도구 설계도",
+      "file": "chrysalis.webp",
+      "sheet": "shared-1",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 327,
+        "top": 200,
+        "width": 311,
+        "height": 185
+      },
+      "bytes": 26392,
+      "sha256": "41efa8f8ee431d666b54e0cee9862fe8bec6944725e4cbe3cba07cafdcfa5b9d"
+    },
+    {
+      "id": "CLUMSY",
+      "name": "헝클어진 지도",
+      "file": "clumsy.webp",
+      "sheet": "shared-1",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 646,
+        "top": 200,
+        "width": 321,
+        "height": 185
+      },
+      "bytes": 28834,
+      "sha256": "bbfdbd3fd1aef67cea9adbcf9204eecd212450d2612e4ab55d77fa09ea34822e"
+    },
+    {
+      "id": "CURSEOFTHEBELL",
+      "name": "시계의 잡음",
+      "file": "curseofthebell.webp",
+      "sheet": "shared-1",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 200,
+        "width": 316,
+        "height": 185
+      },
+      "bytes": 25236,
+      "sha256": "dba3b95feadbba66bf7ac3e8db42205f6b97e1cdc265de5b7f671f0edd06d481"
+    },
+    {
+      "id": "DARK_SHACKLES",
+      "name": "무게추 신호",
+      "file": "dark_shackles.webp",
+      "sheet": "shared-1",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 200,
+        "width": 316,
+        "height": 185
+      },
+      "bytes": 26736,
+      "sha256": "bda7b9660acc666f6e745ed1a02cfd2465898103f7b266aff2e73d9f0382cc1a"
+    },
+    {
+      "id": "DAZED",
+      "name": "어질어질",
+      "file": "dazed.webp",
+      "sheet": "shared-1",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 393,
+        "width": 315,
+        "height": 183
+      },
+      "bytes": 29068,
+      "sha256": "4d5e64dfe677e8208d03bd0b6634c4a5c72b98b847703bd7f1e84b664f2da531"
+    },
+    {
+      "id": "DECAY",
+      "name": "배터리 누수",
+      "file": "decay.webp",
+      "sheet": "shared-1",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 327,
+        "top": 393,
+        "width": 311,
+        "height": 183
+      },
+      "bytes": 21206,
+      "sha256": "33629117846ce9ccddf381e4ae549c9fcc01eccd39484c3dd6536adab2b41bd5"
+    },
+    {
+      "id": "DEEP_BREATH",
+      "name": "호흡 맞추기",
+      "file": "deep_breath.webp",
+      "sheet": "shared-1",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 646,
+        "top": 393,
+        "width": 321,
+        "height": 183
+      },
+      "bytes": 34904,
+      "sha256": "eaa9845c6fbef805897b1b9830c204596a5626420893e91e825c978d5c1af41f"
+    },
+    {
+      "id": "DISCOVERY",
+      "name": "새로운 단서",
+      "file": "discovery.webp",
+      "sheet": "shared-1",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 393,
+        "width": 316,
+        "height": 183
+      },
+      "bytes": 32056,
+      "sha256": "b3a05795140d066b5b67eda1b633b00b0f3b747eb9ef8ec22fd388f4290a3885"
+    },
+    {
+      "id": "DOUBT",
+      "name": "흐린 나침반",
+      "file": "doubt.webp",
+      "sheet": "shared-1",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 393,
+        "width": 316,
+        "height": 183
+      },
+      "bytes": 23858,
+      "sha256": "e5164eb344ac5ec642b8b7641fca8a251c984842e989e65f7fa8408edb272c30"
+    },
+    {
+      "id": "DRAMATIC_ENTRANCE",
+      "name": "빛나는 등장",
+      "file": "dramatic_entrance.webp",
+      "sheet": "shared-1",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 584,
+        "width": 315,
+        "height": 188
+      },
+      "bytes": 40504,
+      "sha256": "f8a5f05f6dd9dcacfa7323ca5d50538108fa0f6e466a62a9a5393ce9f5d6c15d"
+    },
+    {
+      "id": "ENLIGHTENMENT",
+      "name": "간결한 설계",
+      "file": "enlightenment.webp",
+      "sheet": "shared-1",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 327,
+        "top": 584,
+        "width": 311,
+        "height": 188
+      },
+      "bytes": 19754,
+      "sha256": "963c1b8a190db4ff37ae3303ec4ecbd5788468cec5928fc40b88a34d33ea265b"
+    },
+    {
+      "id": "FINESSE",
+      "name": "차분한 손놀림",
+      "file": "finesse.webp",
+      "sheet": "shared-1",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 646,
+        "top": 584,
+        "width": 321,
+        "height": 188
+      },
+      "bytes": 26160,
+      "sha256": "eb2abea9d4dc892e4e70e3c9b455cca63ecaff848d90807af54e22bf87e34b0d"
+    },
+    {
+      "id": "FLASH_OF_STEEL",
+      "name": "은빛 점멸",
+      "file": "flash_of_steel.webp",
+      "sheet": "shared-1",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 584,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 27758,
+      "sha256": "021c5457ebe15f8f46fcaff3fdc8aaf42d104d2ab15077aadb2a5e2a71aab3e7"
+    },
+    {
+      "id": "FORETHOUGHT",
+      "name": "다음 장의 계획",
+      "file": "forethought.webp",
+      "sheet": "shared-1",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 584,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 22732,
+      "sha256": "a722c851b348399a30b7b10cf502fc116747e09ade3c406b4ed55fe5b5965a3d"
+    },
+    {
+      "id": "GHOSTLY",
+      "name": "투명 보호막",
+      "file": "ghostly.webp",
+      "sheet": "shared-1",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 780,
+        "width": 315,
+        "height": 188
+      },
+      "bytes": 26882,
+      "sha256": "a6077e0ea0a75efd7727d71c78a88bf4d3f494b4baf149b2f0f572931c593d0f"
+    },
+    {
+      "id": "GOOD_INSTINCTS",
+      "name": "안전 감각",
+      "file": "good_instincts.webp",
+      "sheet": "shared-1",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 327,
+        "top": 780,
+        "width": 311,
+        "height": 188
+      },
+      "bytes": 22006,
+      "sha256": "b3ecb47d8093b04a73367188b7facc2a34936c58866505aa57889bcc69012833"
+    },
+    {
+      "id": "HANDOFGREED",
+      "name": "탐험 수당",
+      "file": "handofgreed.webp",
+      "sheet": "shared-1",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 646,
+        "top": 780,
+        "width": 321,
+        "height": 188
+      },
+      "bytes": 25674,
+      "sha256": "80c656a36fbada2aa6ecac27a18fdd4a8801964b1a8e917730d47e62d57b66a2"
+    },
+    {
+      "id": "IMPATIENCE",
+      "name": "빈손의 기회",
+      "file": "impatience.webp",
+      "sheet": "shared-1",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 975,
+        "top": 780,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 24998,
+      "sha256": "3eebe82289bc1d0600dd64039ba2bc991ba44a6f1b61d6bc10903dc80774b729"
+    },
+    {
+      "id": "INJURY",
+      "name": "구겨진 메모",
+      "file": "injury.webp",
+      "sheet": "shared-1",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1299,
+        "top": 780,
+        "width": 316,
+        "height": 188
+      },
+      "bytes": 20470,
+      "sha256": "317e85fc5a8ac5897751293af6fc4eb3aceb3175b813c81264a317ac18d1c386"
+    },
+    {
+      "id": "JACK_OF_ALL_TRADES",
+      "name": "만능 공구함",
+      "file": "jack_of_all_trades.webp",
+      "sheet": "shared-2",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 301,
+        "height": 198
+      },
+      "bytes": 42280,
+      "sha256": "1cce12fb51f9c055d23935aca1a18633a9b0d4f1aad55415cb5935baf5559486"
+    },
+    {
+      "id": "J_A_X",
+      "name": "보호막 배분",
+      "file": "j_a_x.webp",
+      "sheet": "shared-2",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 313,
+        "top": 4,
+        "width": 298,
+        "height": 198
+      },
+      "bytes": 34216,
+      "sha256": "c72255c708f2a2aa261b25e9d75daac57162c250ce2620999b5e6158e9acb4ae"
+    },
+    {
+      "id": "MADNESS",
+      "name": "번뜩이는 생각",
+      "file": "madness.webp",
+      "sheet": "shared-2",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 4,
+        "width": 299,
+        "height": 198
+      },
+      "bytes": 26210,
+      "sha256": "15b0cf996ffcd404c2edf308f9901d6f51299fd16d213c7f5cd4c377b3952d97"
+    },
+    {
+      "id": "MAGNETISM",
+      "name": "신호 수집기",
+      "file": "magnetism.webp",
+      "sheet": "shared-2",
+      "row": 0,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 4,
+        "width": 296,
+        "height": 198
+      },
+      "bytes": 27150,
+      "sha256": "98b99db6fe029ecaafe2c731b3a1aa4b5eafabfbd42a40e5bd9850d8f72ac7ad"
+    },
+    {
+      "id": "MASTER_OF_STRATEGY",
+      "name": "작전 브리핑",
+      "file": "master_of_strategy.webp",
+      "sheet": "shared-2",
+      "row": 0,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 4,
+        "width": 302,
+        "height": 198
+      },
+      "bytes": 38372,
+      "sha256": "f5a1bf21611140a98025672ad1f3514600b122b395f5f01e1bba5a50194242e0"
+    },
+    {
+      "id": "MAYHEM",
+      "name": "자동 탐색기",
+      "file": "mayhem.webp",
+      "sheet": "shared-2",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 210,
+        "width": 301,
+        "height": 196
+      },
+      "bytes": 24950,
+      "sha256": "ca708bb7e91a33d4d78302590eb4aec534e9072c301a5c452a5cbfaab465fd5f"
+    },
+    {
+      "id": "METAMORPHOSIS",
+      "name": "광검 설계도",
+      "file": "metamorphosis.webp",
+      "sheet": "shared-2",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 313,
+        "top": 210,
+        "width": 298,
+        "height": 196
+      },
+      "bytes": 32622,
+      "sha256": "896d3812462f27d4e6a9c34beb0aec574eeb34cb503b503ec3e851f25c9a4ad1"
+    },
+    {
+      "id": "MIND_BLAST",
+      "name": "쌓인 지혜",
+      "file": "mind_blast.webp",
+      "sheet": "shared-2",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 210,
+        "width": 299,
+        "height": 196
+      },
+      "bytes": 24090,
+      "sha256": "cb88b9736d166b4bfd96d3f8938e6ea3f76418c591b7a7077eeee322e3abffa0"
+    },
+    {
+      "id": "NECRONOMICURSE",
+      "name": "되돌아온 숙제",
+      "file": "necronomicurse.webp",
+      "sheet": "shared-2",
+      "row": 1,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 210,
+        "width": 296,
+        "height": 196
+      },
+      "bytes": 36616,
+      "sha256": "1f7770e3205805eeb7f54bbd2efa2f9be339560b9e982a06ae93dac65e9d169a"
+    },
+    {
+      "id": "NORMALITY",
+      "name": "좁은 도구함",
+      "file": "normality.webp",
+      "sheet": "shared-2",
+      "row": 1,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 210,
+        "width": 302,
+        "height": 196
+      },
+      "bytes": 30838,
+      "sha256": "b47276403171dc3b53f4654871e5606ea8e43842182b3f0ced683167dfbbc589"
+    },
+    {
+      "id": "PAIN",
+      "name": "삐걱이는 장비",
+      "file": "pain.webp",
+      "sheet": "shared-2",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 414,
+        "width": 301,
+        "height": 184
+      },
+      "bytes": 21314,
+      "sha256": "e507a0b9b1b9354a3c768e41edf4b6c89871682aad4a8a74e225f6c116ab8152"
+    },
+    {
+      "id": "PANACEA",
+      "name": "안정화 장치",
+      "file": "panacea.webp",
+      "sheet": "shared-2",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 313,
+        "top": 414,
+        "width": 298,
+        "height": 184
+      },
+      "bytes": 31892,
+      "sha256": "94010624ff84792dd1ff2dc1b434c8f936f537898ed939022024eb6139a8754d"
+    },
+    {
+      "id": "PANACHE",
+      "name": "다섯 빛의 박자",
+      "file": "panache.webp",
+      "sheet": "shared-2",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 414,
+        "width": 299,
+        "height": 184
+      },
+      "bytes": 20042,
+      "sha256": "f0cd80539282da8f3d5286b63c64671ec4de8943c7c49ba7e0b5905ce1f45cca"
+    },
+    {
+      "id": "PANICBUTTON",
+      "name": "긴급 차폐",
+      "file": "panicbutton.webp",
+      "sheet": "shared-2",
+      "row": 2,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 414,
+        "width": 296,
+        "height": 184
+      },
+      "bytes": 32430,
+      "sha256": "8274d73ff7963d57692259c1424af07de45d589b0a5a0ca4160fcc9d73fd031e"
+    },
+    {
+      "id": "PARASITE",
+      "name": "무거운 짐칸",
+      "file": "parasite.webp",
+      "sheet": "shared-2",
+      "row": 2,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 414,
+        "width": 302,
+        "height": 184
+      },
+      "bytes": 27704,
+      "sha256": "d541e7ec669edf272a5e9e53d94855acdd17cfd1f553e7a1b70e4aef1c67bf81"
+    },
+    {
+      "id": "PRIDE",
+      "name": "넘치는 짐",
+      "file": "pride.webp",
+      "sheet": "shared-2",
+      "row": 3,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 606,
+        "width": 301,
+        "height": 187
+      },
+      "bytes": 32706,
+      "sha256": "390627c194ca267d1f3bed7105be027e2a88840b7381e96c09e75aebfbed9f45"
+    },
+    {
+      "id": "PURITY",
+      "name": "장비 비우기",
+      "file": "purity.webp",
+      "sheet": "shared-2",
+      "row": 3,
+      "column": 1,
+      "crop": {
+        "left": 313,
+        "top": 606,
+        "width": 298,
+        "height": 187
+      },
+      "bytes": 44588,
+      "sha256": "dfdd3c69b853db280f74c29e6fadf1e1d7c4880096b73bac9710761460ec95ae"
+    },
+    {
+      "id": "REGRET",
+      "name": "남겨진 메모",
+      "file": "regret.webp",
+      "sheet": "shared-2",
+      "row": 3,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 606,
+        "width": 299,
+        "height": 187
+      },
+      "bytes": 18566,
+      "sha256": "836f4791b6152a6d96a66533312aef1a30fb4767ceed94e77135a0c1fe9457b5"
+    },
+    {
+      "id": "RITUALDAGGER",
+      "name": "성장하는 수정",
+      "file": "ritualdagger.webp",
+      "sheet": "shared-2",
+      "row": 3,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 606,
+        "width": 296,
+        "height": 187
+      },
+      "bytes": 20390,
+      "sha256": "3c498dfbe857e7574e4566ae12159400f96d4e2984d301f3c42107ac753662d0"
+    },
+    {
+      "id": "SADISTIC_NATURE",
+      "name": "빈틈 공명",
+      "file": "sadistic_nature.webp",
+      "sheet": "shared-2",
+      "row": 3,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 606,
+        "width": 302,
+        "height": 187
+      },
+      "bytes": 31526,
+      "sha256": "7e8f467afa18044b11b44088ac7ba9ce181fab4bde359f763e1548debb386af4"
+    },
+    {
+      "id": "SECRET_TECHNIQUE",
+      "name": "숨은 설계도",
+      "file": "secret_technique.webp",
+      "sheet": "shared-2",
+      "row": 4,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 801,
+        "width": 301,
+        "height": 219
+      },
+      "bytes": 35746,
+      "sha256": "bc54ac72ef48c5334c012d2619747319f05d0affac62a4343c493d368d251585"
+    },
+    {
+      "id": "SECRET_WEAPON",
+      "name": "숨은 광검",
+      "file": "secret_weapon.webp",
+      "sheet": "shared-2",
+      "row": 4,
+      "column": 1,
+      "crop": {
+        "left": 313,
+        "top": 801,
+        "width": 298,
+        "height": 219
+      },
+      "bytes": 28190,
+      "sha256": "87d5a9f5629e7949fa1954e8841f15c9b5c333e230ead0dd26fe539fdfe8c07d"
+    },
+    {
+      "id": "SHAME",
+      "name": "느슨한 끈",
+      "file": "shame.webp",
+      "sheet": "shared-2",
+      "row": 4,
+      "column": 2,
+      "crop": {
+        "left": 619,
+        "top": 801,
+        "width": 299,
+        "height": 219
+      },
+      "bytes": 27110,
+      "sha256": "4e64ad4cfc4a7cc6b3420bdfd2c850839c049f4dec3a25f85b8936ff64f1dbc0"
+    },
+    {
+      "id": "SLIMED",
+      "name": "끈적한 테이프",
+      "file": "slimed.webp",
+      "sheet": "shared-2",
+      "row": 4,
+      "column": 3,
+      "crop": {
+        "left": 926,
+        "top": 801,
+        "width": 296,
+        "height": 219
+      },
+      "bytes": 25378,
+      "sha256": "2a4713c374fd63d4fa99588247bdd6e5622cec5a61daa0c12ea6b52f18f70554"
+    },
+    {
+      "id": "SWIFT_STRIKE",
+      "name": "찰나의 빛",
+      "file": "swift_strike.webp",
+      "sheet": "shared-2",
+      "row": 4,
+      "column": 4,
+      "crop": {
+        "left": 1230,
+        "top": 801,
+        "width": 302,
+        "height": 219
+      },
+      "bytes": 40222,
+      "sha256": "8eb0cd7f5dc4e37a5498bff334ecb80fe8840df0150286c03cbf9b95ac406327"
+    },
+    {
+      "id": "THE_BOMB",
+      "name": "예약 광파",
+      "file": "the_bomb.webp",
+      "sheet": "shared-3",
+      "row": 0,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 4,
+        "width": 504,
+        "height": 331
+      },
+      "bytes": 39506,
+      "sha256": "73ebdb8063c483dd88f9e2c7d53283b1dae5949f2fa6fc4454a16b16befb4a9a"
+    },
+    {
+      "id": "THINKING_AHEAD",
+      "name": "앞장 미리보기",
+      "file": "thinking_ahead.webp",
+      "sheet": "shared-3",
+      "row": 0,
+      "column": 1,
+      "crop": {
+        "left": 516,
+        "top": 4,
+        "width": 504,
+        "height": 331
+      },
+      "bytes": 37424,
+      "sha256": "3417aa87bd696b0feb204e023243492987eddd5b0b30052ae5c2669ebb53e440"
+    },
+    {
+      "id": "TRANSMUTATION",
+      "name": "빛의 조합",
+      "file": "transmutation.webp",
+      "sheet": "shared-3",
+      "row": 0,
+      "column": 2,
+      "crop": {
+        "left": 1028,
+        "top": 4,
+        "width": 504,
+        "height": 331
+      },
+      "bytes": 28706,
+      "sha256": "01d1ea7a38a9eea8b44457df35ea5ecef6ee7124c533a22255e91d18717bc16d"
+    },
+    {
+      "id": "TRIP",
+      "name": "균형 신호",
+      "file": "trip.webp",
+      "sheet": "shared-3",
+      "row": 1,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 343,
+        "width": 504,
+        "height": 332
+      },
+      "bytes": 29936,
+      "sha256": "f157f0b0817396d54ef22a9520b792f6f665a087f104712c252a10f89b3f92b3"
+    },
+    {
+      "id": "VIOLENCE",
+      "name": "공격 준비실",
+      "file": "violence.webp",
+      "sheet": "shared-3",
+      "row": 1,
+      "column": 1,
+      "crop": {
+        "left": 516,
+        "top": 343,
+        "width": 504,
+        "height": 332
+      },
+      "bytes": 42866,
+      "sha256": "5e2ba007e0d038e0c26e340f3a41d97beab061984bf35ff9a5475b53f77c9059"
+    },
+    {
+      "id": "VOID",
+      "name": "꺼진 전구",
+      "file": "void.webp",
+      "sheet": "shared-3",
+      "row": 1,
+      "column": 2,
+      "crop": {
+        "left": 1028,
+        "top": 343,
+        "width": 504,
+        "height": 332
+      },
+      "bytes": 28658,
+      "sha256": "0222761b83412fc274de4789c1b9be304eef35eef69b7e21edfd52a8f7328e72"
+    },
+    {
+      "id": "WOUND",
+      "name": "장비 걸림",
+      "file": "wound.webp",
+      "sheet": "shared-3",
+      "row": 2,
+      "column": 0,
+      "crop": {
+        "left": 4,
+        "top": 683,
+        "width": 504,
+        "height": 337
+      },
+      "bytes": 32892,
+      "sha256": "4a9dc3104a7f1966c96f0e7b7dcd817ee5c0b6dc92ab7e9f42d327710f807241"
+    },
+    {
+      "id": "WRITHE",
+      "name": "엉킨 밧줄",
+      "file": "writhe.webp",
+      "sheet": "shared-3",
+      "row": 2,
+      "column": 1,
+      "crop": {
+        "left": 516,
+        "top": 683,
+        "width": 504,
+        "height": 337
+      },
+      "bytes": 34268,
+      "sha256": "779dbde87cc4f2fcf3be53429c402083fcc73ffb4a104224d0da1df365479590"
+    },
+    {
+      "id": "SHIV",
+      "name": "달날",
+      "file": "shiv.webp",
+      "sheet": "shared-3",
+      "row": 2,
+      "column": 2,
+      "crop": {
+        "left": 1028,
+        "top": 683,
+        "width": 504,
+        "height": 337
+      },
+      "bytes": 20238,
+      "sha256": "5714d1815bb3cf95e7baf1125e25065efbd549eeb1ef34b7d4c33a3e99ceb319"
+    }
+  ]
+}

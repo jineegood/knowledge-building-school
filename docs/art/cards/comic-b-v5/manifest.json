@@ -1,0 +1,1261 @@
+{
+  "version": "comic-b-v5",
+  "tool": "built-in image_gen",
+  "count": 209,
+  "cards": [
+    {
+      "id": "ACCURACY",
+      "name": "단검 숙련",
+      "file": "art/cards/comic-b-v5/accuracy.webp",
+      "sha256": "6cff764eb2e8348ffdf8aac42b4e354c66aaeec9e381e232c8291ea93e586f3f"
+    },
+    {
+      "id": "ACROBATICS",
+      "name": "재주넘기",
+      "file": "art/cards/comic-b-v5/acrobatics.webp",
+      "sha256": "5f885ac4e6d6f84e053426c304709a022fb12ba4ad7d49876ace26469b50ccb0"
+    },
+    {
+      "id": "ADRENALINE",
+      "name": "재빠르게",
+      "file": "art/cards/review-2026-10-07/adrenaline.webp",
+      "sha256": "bdc5b6cca37db4f67b2a32f54e6d07eb1776655a76b495c1475e769dc5740162"
+    },
+    {
+      "id": "AFTER_IMAGE",
+      "name": "발자국",
+      "file": "art/cards/comic-b-v5/after_image.webp",
+      "sha256": "eafe652de888494546967cf130a4cb641849f4c6b1d0e6cbd75e1905ceff107b"
+    },
+    {
+      "id": "ALL_OUT_ATTACK",
+      "name": "몰아치기",
+      "file": "art/cards/comic-b-v5/all_out_attack.webp",
+      "sha256": "c52d16961e6af2e59b9e41f37697eb64d978b78846743cd0f166f545055f6f34"
+    },
+    {
+      "id": "ANGER",
+      "name": "빠른 공격",
+      "file": "art/cards/comic-b-v5/anger.webp",
+      "sha256": "0a1b90da25007577d570c2d8390c80eb9a84f754fc7cb4d565ef02391ac28482"
+    },
+    {
+      "id": "APOTHEOSIS",
+      "name": "모두 강화",
+      "file": "art/cards/comic-b-v5/apotheosis.webp",
+      "sha256": "43b51fafec519c3eab576ecc5262bdecb206aa8d1c78bfb627f7d32dd1d46788"
+    },
+    {
+      "id": "ARMAMENTS",
+      "name": "갑옷 정비",
+      "file": "art/cards/character-fix-2026-10-08/armaments.webp",
+      "sha256": "bef9e877ff2cc391b44a179be09635fe4cd7b01efc5c41e74be3b891078b17f2"
+    },
+    {
+      "id": "ASCENDERSBANE",
+      "name": "쓸데없는 배낭",
+      "file": "art/cards/review-2026-10-07-r2/ascendersbane.webp",
+      "sha256": "8b04aba0f35904c443557aba9bf7041af77f1cf14ce5c674c3cbd1e3fc4647f8"
+    },
+    {
+      "id": "A_THOUSAND_CUTS",
+      "name": "끝없는 칼날",
+      "file": "art/cards/comic-b-v5/a_thousand_cuts.webp",
+      "sha256": "8b3e719a9e217efdfa386813f631f8264b12a61b58d74fac112581ba32d3edc0"
+    },
+    {
+      "id": "BACKFLIP",
+      "name": "그림자 걷기",
+      "file": "art/cards/comic-b-v5/backflip.webp",
+      "sha256": "20da6036a6214b630778c80e4eeb13d80618eb49990d9c6607ce39e19203ddc1"
+    },
+    {
+      "id": "BACKSTAB",
+      "name": "방패 부수기",
+      "file": "art/cards/review-2026-10-07-r2/backstab.webp",
+      "sha256": "b7f43681bd8a298bfc48e3da8ce8dfd30bfb534ead7fb52dca794a9c02953aa3"
+    },
+    {
+      "id": "BANDAGE_UP",
+      "name": "신선한 음식",
+      "file": "art/cards/review-2026-10-07/bandage_up.webp",
+      "sha256": "dd43d3dbc435392d13268e9f6480664e14f3eb3d5192d94fa9ce802dc68bcaef"
+    },
+    {
+      "id": "BANE",
+      "name": "표식 노리기",
+      "file": "art/cards/comic-b-v5/bane.webp",
+      "sha256": "7cbfba4543df53cf440a6058d327031a7877da01acb38cbe1f7510a6aa68afe8"
+    },
+    {
+      "id": "BARRICADE",
+      "name": "방패벽",
+      "file": "art/cards/comic-b-v5/barricade.webp",
+      "sha256": "1842e4b3ce121dd1ff6911c2ebe7c89ec95ad3935cbf316f6d293c27831fbd97"
+    },
+    {
+      "id": "BASH",
+      "name": "손잡이 강타",
+      "file": "art/cards/comic-b-v5/bash.webp",
+      "sha256": "b2fee39cc68dbfb5c68b0a31d4c9d45bfada1ef8d124b9ac6923d3a96d9f8c77"
+    },
+    {
+      "id": "BATTLE_TRANCE",
+      "name": "집중",
+      "file": "art/cards/character-fix-2026-10-08/battle_trance.webp",
+      "sha256": "95987db507bc24a6a4fd361d5f32992101c517d8859792270f09232162dad344"
+    },
+    {
+      "id": "BERSERK",
+      "name": "에너지 드링크",
+      "file": "art/cards/comic-b-v5/berserk.webp",
+      "sha256": "fe199981cce266af2518655fc80eb9e31a99ddb98b07f3ffb06c72b33f9e49af"
+    },
+    {
+      "id": "BITE",
+      "name": "체력 흡수",
+      "file": "art/cards/review-2026-10-07/bite.webp",
+      "sha256": "dbe0f33fd916905707850bbdd3efceab3a1c58177033b9276fead4f8b281c0b6"
+    },
+    {
+      "id": "BLADE_DANCE",
+      "name": "단검 꺼내기",
+      "file": "art/cards/comic-b-v5/blade_dance.webp",
+      "sha256": "2531967bd4727fbbf176bbd698b79442b30fc67f775f67dc8e7fa8d92020709d"
+    },
+    {
+      "id": "BLIND",
+      "name": "연막탄",
+      "file": "art/cards/review-2026-10-07/blind.webp",
+      "sha256": "3d38b29863e20ff3f5cd8bd70ef75435c50e7f985d8d284930b09009b20d3dd9"
+    },
+    {
+      "id": "BLOODLETTING",
+      "name": "에너지 짜내기",
+      "file": "art/cards/comic-b-v5/bloodletting.webp",
+      "sha256": "eb752d2e5e19e00dd9edeec8df4e8e90e51285e8e90a17bbb857a7f558a26d6a"
+    },
+    {
+      "id": "BLOOD_FOR_BLOOD",
+      "name": "되받아치기",
+      "file": "art/cards/comic-b-v5/blood_for_blood.webp",
+      "sha256": "b9e4444cf6791ed8b62707c66cd3fe852b45a50045f8bdf36fc50eca179a7bcc"
+    },
+    {
+      "id": "BLUDGEON",
+      "name": "내려치기",
+      "file": "art/cards/comic-b-v5/bludgeon.webp",
+      "sha256": "c3d754b8e01f40c5de8a0b413907f8fbe543fdbea59a765652af6ce04b64f0fc"
+    },
+    {
+      "id": "BLUR",
+      "name": "흐릿한 방어",
+      "file": "art/cards/comic-b-v5/blur.webp",
+      "sha256": "93cb8f6ca087c483e2cdaf47955ba9ee93b2502c73eb8b06ca667cf2ada19684"
+    },
+    {
+      "id": "BODY_SLAM",
+      "name": "방패 밀치기",
+      "file": "art/cards/comic-b-v5/body_slam.webp",
+      "sha256": "6cbf681d61204137a8f04b6c0faf4a74483f0e03bb4cf20e89a2d51aebb1be62"
+    },
+    {
+      "id": "BOUNCING_FLASK",
+      "name": "통통 튀는 병",
+      "file": "art/cards/comic-b-v5/bouncing_flask.webp",
+      "sha256": "c0344fa2c9b4e576b11f1b57d7cac764d3e6e849b8494d280166a41b11f40cfb"
+    },
+    {
+      "id": "BRUTALITY",
+      "name": "사전 계획",
+      "file": "art/cards/character-fix-2026-10-08/brutality.webp",
+      "sha256": "cd1e939a169187ded9a87602c87153b9bb6192ec764ac82ca92eff7221a8f06a"
+    },
+    {
+      "id": "BULLET_TIME",
+      "name": "시간 멈추기",
+      "file": "art/cards/comic-b-v5/bullet_time.webp",
+      "sha256": "7e736c992dcc4f3512de91a4b2f467db5788b7bf3b079c4a474de86e1f6c15be"
+    },
+    {
+      "id": "BURN",
+      "name": "과열",
+      "file": "art/cards/review-2026-10-07-r2/burn.webp",
+      "sha256": "5c579ff6c41894807dd2ebc2ed5697d601a2c1e04d7bf83fd595541439396c3b"
+    },
+    {
+      "id": "BURNING_PACT",
+      "name": "카드 바꾸기",
+      "file": "art/cards/comic-b-v5/burning_pact.webp",
+      "sha256": "e6be96933efa3fa40b0640c4ecaf42f877703eda3a91e8847b5238e7b62ed3db"
+    },
+    {
+      "id": "BURST",
+      "name": "두 번 쓰기",
+      "file": "art/cards/comic-b-v5/burst.webp",
+      "sha256": "a80b8ea1e5d711532bf290293f995cf91b0f374e283ed16b7f930bb7789fc51c"
+    },
+    {
+      "id": "CALCULATED_GAMBLE",
+      "name": "손패 바꾸기",
+      "file": "art/cards/comic-b-v5/calculated_gamble.webp",
+      "sha256": "b0de64ae692a4ca7271da2275a5e31a3c1ac95b8c3cf7fe6af44df16c9da253b"
+    },
+    {
+      "id": "CALTROPS",
+      "name": "뾰족한 가시",
+      "file": "art/cards/comic-b-v5/caltrops.webp",
+      "sha256": "47cd0373c3dfd9f148837988cc389eb32bfcf1659ff9e9457b3b2e68e0f5d822"
+    },
+    {
+      "id": "CARNAGE",
+      "name": "묵직한 일격",
+      "file": "art/cards/comic-b-v5/carnage.webp",
+      "sha256": "32243e2a63580ee0b6119f8b70a8e274f72e491e629e625991c5924f1a4965e9"
+    },
+    {
+      "id": "CATALYST",
+      "name": "표식 키우기",
+      "file": "art/cards/comic-b-v5/catalyst.webp",
+      "sha256": "ae72bceab65dea0e6fbd93c4e5f1157fe25e55a0dc2a697f1734c9f9eb737ee3"
+    },
+    {
+      "id": "CHOKE",
+      "name": "연결 공격",
+      "file": "art/cards/character-fix-2026-10-08/choke.webp",
+      "sha256": "45f517846a76c32cc04cef6012aacac265a7cd8e332a3b83ed13899f801ab027"
+    },
+    {
+      "id": "CHRYSALIS",
+      "name": "도구 설계",
+      "file": "art/cards/comic-b-v5/chrysalis.webp",
+      "sha256": "b7d7703ce67e32129942b8353f2f62b3597a5615c1d4fd559d1cc758456788e0"
+    },
+    {
+      "id": "CLASH",
+      "name": "맞붙기",
+      "file": "art/cards/comic-b-v5/clash.webp",
+      "sha256": "870109c474c8d434760b23993711ef204043aaaad59e5098bc7ebdb00755c4fb"
+    },
+    {
+      "id": "CLEAVE",
+      "name": "휩쓸기",
+      "file": "art/cards/comic-b-v5/cleave.webp",
+      "sha256": "4015dd34c976eed7d1e822beddddbc6d9ae353bb2404c9f5b0ee5124da2ab7de"
+    },
+    {
+      "id": "CLOAK_AND_DAGGER",
+      "name": "망토와 단검",
+      "file": "art/cards/comic-b-v5/cloak_and_dagger.webp",
+      "sha256": "70dd6461f5139668525987b78c0618aff6fef85a4665b1735d7d6122e3c67893"
+    },
+    {
+      "id": "CLOTHESLINE",
+      "name": "길막기",
+      "file": "art/cards/comic-b-v5/clothesline.webp",
+      "sha256": "9e051a069044532c28e5986df760fa9819cd21151594b27701d15b53155c973f"
+    },
+    {
+      "id": "CLUMSY",
+      "name": "망가진 지도",
+      "file": "art/cards/comic-b-v5/clumsy.webp",
+      "sha256": "28558866388166c5e92368160a614d85d3cbdb8adb05c5c998fb62386df2640a"
+    },
+    {
+      "id": "COMBUST",
+      "name": "열기",
+      "file": "art/cards/character-fix-2026-10-08/combust.webp",
+      "sha256": "e7f6d9696bb89e61454d259566716580a9254efe53726f8f771052dca3e27e9d"
+    },
+    {
+      "id": "CONCENTRATE",
+      "name": "에너지 모으기",
+      "file": "art/cards/character-fix-2026-10-08/concentrate.webp",
+      "sha256": "6a9d11a6323d0563cf23b06c4212376fb0f44b1d18bb180d1265fd06735704e9"
+    },
+    {
+      "id": "CORPSE_EXPLOSION",
+      "name": "표식 폭발",
+      "file": "art/cards/review-2026-10-07/corpse_explosion.webp",
+      "sha256": "6e650f3d717e2036719f83efbd53896ff2bd36cb5448478727c8f1b848d9b98e"
+    },
+    {
+      "id": "CORRUPTION",
+      "name": "종이 도구",
+      "file": "art/cards/comic-b-v5/corruption.webp",
+      "sha256": "2b9a09e0a6df4bec9b7e76c7a4d455ff1156c2ef57107ecea8603670a02c53aa"
+    },
+    {
+      "id": "CRIPPLING_POISON",
+      "name": "회오리 표식",
+      "file": "art/cards/review-2026-10-07/crippling_poison.webp",
+      "sha256": "2ae06c014f3371359b2a05ee13b24c1d76ee2d0e7b0f486026b068d5e2b0b129"
+    },
+    {
+      "id": "CURSEOFTHEBELL",
+      "name": "시끄러운 시계",
+      "file": "art/cards/comic-b-v5/curseofthebell.webp",
+      "sha256": "e0eceec4cc85cfad1506e1b225e8de75f653deb3bfe92609076b177f8669b619"
+    },
+    {
+      "id": "DAGGER_SPRAY",
+      "name": "단검 뿌리기",
+      "file": "art/cards/review-2026-10-07/dagger_spray.webp",
+      "sha256": "86fa3515fa3d8e22d3be33e52a5f8cf8001572fc2ea7c76285c5fe1f0ef24314"
+    },
+    {
+      "id": "DAGGER_THROW",
+      "name": "단검 던지기",
+      "file": "art/cards/comic-b-v5/dagger_throw.webp",
+      "sha256": "c3020aa6b4ac802d687256db37b90ee1be928a00f685c6902efd8b10c3281dfb"
+    },
+    {
+      "id": "DARK_EMBRACE",
+      "name": "카드 재활용",
+      "file": "art/cards/comic-b-v5/dark_embrace.webp",
+      "sha256": "5ba0215604f3816458beba7cc8aa5b4bc5387af55c6ea2bd0f5ec93387d5b61d"
+    },
+    {
+      "id": "DARK_SHACKLES",
+      "name": "무거운 추",
+      "file": "art/cards/comic-b-v5/dark_shackles.webp",
+      "sha256": "ca6f78c2f8f4b9b4ddb01510d230f8ed9d6799868968a484cfc0267e71dbd0c0"
+    },
+    {
+      "id": "DASH",
+      "name": "방패 돌진",
+      "file": "art/cards/comic-b-v5/dash.webp",
+      "sha256": "f4498ff7b38dbee708481f9d2310ebc492e0129165a5af2ba321e535eb897dc8"
+    },
+    {
+      "id": "DAZED",
+      "name": "어질어질",
+      "file": "art/cards/review-2026-10-07/dazed.webp",
+      "sha256": "44c293b59ced783e9e6ab06c3f3180f8db66fd51aec8d5f7ecea9633e6d5cdb6"
+    },
+    {
+      "id": "DEADLY_POISON",
+      "name": "끈질긴 표식",
+      "file": "art/cards/review-2026-10-07/deadly_poison.webp",
+      "sha256": "450fad0d2873b461a57ea1415cdd2affa0a25930b5fc11e9875295a8109b4294"
+    },
+    {
+      "id": "DECAY",
+      "name": "통증",
+      "file": "art/cards/review-2026-10-07-r2/decay.webp",
+      "sha256": "3493fe6ef05ec55cf2095f531742f01a1272c7f996e3532238ce13d05fc1ca5a"
+    },
+    {
+      "id": "DEEP_BREATH",
+      "name": "숨 고르기",
+      "file": "art/cards/review-2026-10-07/deep_breath.webp",
+      "sha256": "43cf87ea296378b85d1519198efd249d8d819b4990781fba08565e89c4f4d423"
+    },
+    {
+      "id": "DEFEND_G",
+      "name": "방어",
+      "file": "art/cards/comic-b-v5/defend_g.webp",
+      "sha256": "fa699aeff9b2cf5aaf948020f29d8f85408c9fbb8ae22cbab3fd19d5d34db445"
+    },
+    {
+      "id": "DEFEND_R",
+      "name": "방어",
+      "file": "art/cards/comic-b-v5/defend_r.webp",
+      "sha256": "a5d3f2b671e96b84fd32d6c25bfcc0b7d4dcca24e81de2709c9795c9ccdd3934"
+    },
+    {
+      "id": "DEFLECT",
+      "name": "흘려 막기",
+      "file": "art/cards/comic-b-v5/deflect.webp",
+      "sha256": "3e7ec70b1e50ce311e60d2d088eef76164ae69762443a83a7703cf1f60bacd06"
+    },
+    {
+      "id": "DEMON_FORM",
+      "name": "점점 강하게",
+      "file": "art/cards/comic-b-v5/demon_form.webp",
+      "sha256": "258fa0a1b74ecbef1201dfa4e6dc1d6c03f2168fed78bc5c073d278133e2c5b3"
+    },
+    {
+      "id": "DIE_DIE_DIE",
+      "name": "싹쓸이",
+      "file": "art/cards/comic-b-v5/die_die_die.webp",
+      "sha256": "e21bdec74960a45d99dc82438758de2166a9e2fadd97f853c50c79c1d15d9289"
+    },
+    {
+      "id": "DISARM",
+      "name": "힘 빼기",
+      "file": "art/cards/comic-b-v5/disarm.webp",
+      "sha256": "e38832df44794db09e11dc027176e3facb8a1ef8de48f1790a46165800f33488"
+    },
+    {
+      "id": "DISCOVERY",
+      "name": "발견",
+      "file": "art/cards/comic-b-v5/discovery.webp",
+      "sha256": "3242fbc633fdc23d0f599d1950ba3a99916b0084b94f3359cb25788208540082"
+    },
+    {
+      "id": "DISTRACTION",
+      "name": "번뜩이는 아이디어",
+      "file": "art/cards/comic-b-v5/distraction.webp",
+      "sha256": "fd0c6bbb5fad377e5d7cc58f81373039f7dc20b06f4c0db31017c560d966cba0"
+    },
+    {
+      "id": "DODGE_AND_ROLL",
+      "name": "구르기",
+      "file": "art/cards/review-2026-10-07-r2/dodge_and_roll.webp",
+      "sha256": "0b30a71955c11992d6d3cffe7bc8a398d1058ccd7d6f946f590277aecc1714fd"
+    },
+    {
+      "id": "DOPPELGANGER",
+      "name": "철저한 준비",
+      "file": "art/cards/comic-b-v5/doppelganger.webp",
+      "sha256": "8c92e10f288552ef9e2476f7b3d191cf0878dcc54601860a9e4f62846eff15ef"
+    },
+    {
+      "id": "DOUBLE_TAP",
+      "name": "복제 공격",
+      "file": "art/cards/comic-b-v5/double_tap.webp",
+      "sha256": "60ecf9d827adc4f612d44185ac8f403d5b54ca31d2a28c569a6d8a6f1719f753"
+    },
+    {
+      "id": "DOUBT",
+      "name": "고장난 나침반",
+      "file": "art/cards/comic-b-v5/doubt.webp",
+      "sha256": "42a0afc326d2d70b3facc11441564dec8072d628c5fde84363ac2ace5e8bd57a"
+    },
+    {
+      "id": "DRAMATIC_ENTRANCE",
+      "name": "힘찬 등장",
+      "file": "art/cards/comic-b-v5/dramatic_entrance.webp",
+      "sha256": "288cdf1fcfef6e5c710825e454ff961904f0a36bdfcc6d1899c7505c9df80781"
+    },
+    {
+      "id": "DROPKICK",
+      "name": "날아 차기",
+      "file": "art/cards/character-fix-2026-10-08/dropkick.webp",
+      "sha256": "fb99bea19944c3b3403fde1903bd148cfc97623192e5f4f39f82ff882b18c0df"
+    },
+    {
+      "id": "DUAL_WIELD",
+      "name": "복사",
+      "file": "art/cards/comic-b-v5/dual_wield.webp",
+      "sha256": "ecee20c1e740c40e3a7c972180a03bfb35b69559875b46f92beb69d562948008"
+    },
+    {
+      "id": "ENDLESS_AGONY",
+      "name": "작은 틈",
+      "file": "art/cards/review-2026-10-07-r2/endless_agony.webp",
+      "sha256": "120a0de5cc9610addb000476374c3c7ffe0e6412be5de65f2f9244f3ad346198"
+    },
+    {
+      "id": "ENLIGHTENMENT",
+      "name": "쉽게 생각하기",
+      "file": "art/cards/review-2026-10-07-r2/enlightenment.webp",
+      "sha256": "dbc817cf9f2f49a12e7345e23a9510e8396e38786da653be599a9a011fcbb1c8"
+    },
+    {
+      "id": "ENTRENCH",
+      "name": "방패 복제",
+      "file": "art/cards/comic-b-v5/entrench.webp",
+      "sha256": "9b230b9e40acecc3ee46cfce077ae0c43224ddbe79e0cc4e417ca827d1ea53b1"
+    },
+    {
+      "id": "ENVENOM",
+      "name": "표식 바르기",
+      "file": "art/cards/comic-b-v5/envenom.webp",
+      "sha256": "bc216ffdde0dfa4de1b5590306c9eb1a87b044af05479a16f32967f513b50bc6"
+    },
+    {
+      "id": "ESCAPE_PLAN",
+      "name": "빠져나갈 길",
+      "file": "art/cards/comic-b-v5/escape_plan.webp",
+      "sha256": "775c51898409b668eef413e9a0715dfd6c0b62c9c77a6d94a11e8cb752934415"
+    },
+    {
+      "id": "EVISCERATE",
+      "name": "삼연타 공격",
+      "file": "art/cards/comic-b-v5/eviscerate.webp",
+      "sha256": "96e74cd2f30d3c16624cd2b7bfba60a17216d5a791ec3076bf94b8270cd87632"
+    },
+    {
+      "id": "EVOLVE",
+      "name": "다시 뽑기",
+      "file": "art/cards/comic-b-v5/evolve.webp",
+      "sha256": "4373b03ecfb2751d2ffef042d10c0096584beaed0716c27031f358efe0e8a9f9"
+    },
+    {
+      "id": "EXHUME",
+      "name": "꺼내 쓰기",
+      "file": "art/cards/comic-b-v5/exhume.webp",
+      "sha256": "d2d2774591634eef03288b23b349fbb3649ef60834eb35a444013a8736eb2a58"
+    },
+    {
+      "id": "EXPERTISE",
+      "name": "손패 채우기",
+      "file": "art/cards/comic-b-v5/expertise.webp",
+      "sha256": "20108742d6abd31d96841062a42da3a217b999d33b58877168b344b42322ab89"
+    },
+    {
+      "id": "FEED",
+      "name": "잡아먹기",
+      "file": "art/cards/character-fix-2026-10-08/feed.webp",
+      "sha256": "6dbd8dc41c8c9387542d5c2ef2effbb23e5587eb3939c5fef26c868ff6da5eb2"
+    },
+    {
+      "id": "FEEL_NO_PAIN",
+      "name": "버린것도 다시보자",
+      "file": "art/cards/comic-b-v5/feel_no_pain.webp",
+      "sha256": "d7717a116854a8dd4b19108edd388c928a5f5b027e5bab74f9a6fff969f79adb"
+    },
+    {
+      "id": "FIEND_FIRE",
+      "name": "파괴의 노래",
+      "file": "art/cards/character-fix-2026-10-08/fiend_fire.webp",
+      "sha256": "e024bd73711e8c15a49374b1346c9e7855d61c8c40a706885575b58865dcf678"
+    },
+    {
+      "id": "FINESSE",
+      "name": "손재주",
+      "file": "art/cards/comic-b-v5/finesse.webp",
+      "sha256": "c75e5d1f98fa978d6d7b484ca35693be9843d05ad605036c6d9b0bc3f1b533ae"
+    },
+    {
+      "id": "FINISHER",
+      "name": "마무리",
+      "file": "art/cards/comic-b-v5/finisher.webp",
+      "sha256": "88d3caabd1891d3394d184a3e93429070ba79460674c88cad6414b8baf5efd64"
+    },
+    {
+      "id": "FIRE_BREATHING",
+      "name": "열기 뿜기",
+      "file": "art/cards/comic-b-v5/fire_breathing.webp",
+      "sha256": "950f9ae379bd38f202c74c0c7532afb43f8289b9ac6fb65a500d49db39feecc2"
+    },
+    {
+      "id": "FLAME_BARRIER",
+      "name": "가시 방패",
+      "file": "art/cards/comic-b-v5/flame_barrier.webp",
+      "sha256": "171b34e460b6daade06e85b2f2f033b2ac6f1a5181c98741c092613fdc2a096c"
+    },
+    {
+      "id": "FLASH_OF_STEEL",
+      "name": "빠른 칼끝",
+      "file": "art/cards/comic-b-v5/flash_of_steel.webp",
+      "sha256": "3572a748b31dab5c95606629704d4b5943eeb772320c62d51d622ea5d5cfdb2e"
+    },
+    {
+      "id": "FLECHETTES",
+      "name": "도구 던지기",
+      "file": "art/cards/comic-b-v5/flechettes.webp",
+      "sha256": "0d25ad6c56d0a4b88dec83e14927caf64e75eade009b6e5cb54fb855438b498b"
+    },
+    {
+      "id": "FLEX",
+      "name": "힘주기",
+      "file": "art/cards/comic-b-v5/flex.webp",
+      "sha256": "db140e8b756f3ef3f1d8ed252f31118812a15ae8a102af3070710865aeb3eb5a"
+    },
+    {
+      "id": "FLYING_KNEE",
+      "name": "무릎 차기",
+      "file": "art/cards/comic-b-v5/flying_knee.webp",
+      "sha256": "94e9c359d46adb1c61387f60db5056b09447fe4c5397a11c25c7b3fabdb2f0f3"
+    },
+    {
+      "id": "FOOTWORK",
+      "name": "가벼운 발",
+      "file": "art/cards/comic-b-v5/footwork.webp",
+      "sha256": "fd1c49a539870b9bc70c39ad6cbd6e06afc925a601b1a1bca160e1c9fb8e9965"
+    },
+    {
+      "id": "FORETHOUGHT",
+      "name": "책갈피",
+      "file": "art/cards/comic-b-v5/forethought.webp",
+      "sha256": "e696c001baf363b30eff309d5f8e4900b1a4d2a84f276e5017b8b32a74bc8a77"
+    },
+    {
+      "id": "GHOSTLY",
+      "name": "투명 방패",
+      "file": "art/cards/comic-b-v5/ghostly.webp",
+      "sha256": "fdce66d1e4fb01a2437fa983cd104425dba44bef10a6fea90a52222154124d00"
+    },
+    {
+      "id": "GHOSTLY_ARMOR",
+      "name": "경갑옷",
+      "file": "art/cards/comic-b-v5/ghostly_armor.webp",
+      "sha256": "c1af8f4c0fc35271f50cd6c8bc7bca09aefc05a600aee4859bb40b61f88dfdf8"
+    },
+    {
+      "id": "GLASS_KNIFE",
+      "name": "유리 단검",
+      "file": "art/cards/comic-b-v5/glass_knife.webp",
+      "sha256": "c69cb322cf3d40b564837cd5479cfda013ea256c19902099a8b218a32e493061"
+    },
+    {
+      "id": "GOOD_INSTINCTS",
+      "name": "조심성",
+      "file": "art/cards/comic-b-v5/good_instincts.webp",
+      "sha256": "2926a45be4aec1dff12e1cfd1a39a6fff92d1300d659a2254a845edfbd9453bd"
+    },
+    {
+      "id": "GRAND_FINALE",
+      "name": "마지막 한 방",
+      "file": "art/cards/character-fix-2026-10-08/grand_finale.webp",
+      "sha256": "83b53fd0082400d2dd53891a80af4f824bb20cb325248a801625d082e647a935"
+    },
+    {
+      "id": "HANDOFGREED",
+      "name": "룰렛 펀치",
+      "file": "art/cards/review-2026-10-07-r2/handofgreed.webp",
+      "sha256": "47c75dddbb14b1ac2232eadea0df5ed8c0620d587f2e97b7339bc7497f872a4c"
+    },
+    {
+      "id": "HAVOC",
+      "name": "대출",
+      "file": "art/cards/character-fix-2026-10-08/havoc.webp",
+      "sha256": "7637bf1b7420ad0cf2e2b0dcb25c95f24ad5b66032154471475617105da7ce8b"
+    },
+    {
+      "id": "HEADBUTT",
+      "name": "들이받기",
+      "file": "art/cards/comic-b-v5/headbutt.webp",
+      "sha256": "54283da3b8089f5538ba2b35e9f72101a68cf2fd980fc033b88872e8da34f83a"
+    },
+    {
+      "id": "HEAVY_BLADE",
+      "name": "묵직한 검",
+      "file": "art/cards/comic-b-v5/heavy_blade.webp",
+      "sha256": "bfb24ea23799fa9983cf2e7929365124f8ac5ac8a2edcd06cc8ddc7e5ff49cfd"
+    },
+    {
+      "id": "HEEL_HOOK",
+      "name": "발 걸기",
+      "file": "art/cards/character-fix-2026-10-08/heel_hook.webp",
+      "sha256": "8cac1161fcd25e0900cd1f9b2c71a454cd2882ac38d3da0cfa1b2460e756470e"
+    },
+    {
+      "id": "HEMOKINESIS",
+      "name": "무리한 돌진",
+      "file": "art/cards/character-fix-2026-10-08/hemokinesis.webp",
+      "sha256": "0a698cf4ab89d286b1862dc03274ac250a40447e1580e1570207776b96682d00"
+    },
+    {
+      "id": "IMMOLATE",
+      "name": "뜨거운 파도",
+      "file": "art/cards/review-2026-10-08/immolate.webp",
+      "sha256": "4c9b013d2903f7505a20cb5155c45ba993da2bee7d3c3da561db3c7b71acaf1b"
+    },
+    {
+      "id": "IMPATIENCE",
+      "name": "마지막 계획",
+      "file": "art/cards/review-2026-10-08/impatience.webp",
+      "sha256": "d32c88bb9c9c61bad0084ad8f2f96e0941881fc8432b5087fd26ac243dafab2c"
+    },
+    {
+      "id": "IMPERVIOUS",
+      "name": "철벽",
+      "file": "art/cards/comic-b-v5/impervious.webp",
+      "sha256": "37376a8f4e990ef90c9d57cab1afc1a1befad8b6147ff3fdf12004e3ac4bee11"
+    },
+    {
+      "id": "INFERNAL_BLADE",
+      "name": "새 무기",
+      "file": "art/cards/comic-b-v5/infernal_blade.webp",
+      "sha256": "b062fdede0ea0e574e6b5dcdc3f6abb2318ef44c52795684d4826553d49e5f31"
+    },
+    {
+      "id": "INFINITE_BLADES",
+      "name": "단검 주머니",
+      "file": "art/cards/comic-b-v5/infinite_blades.webp",
+      "sha256": "8ba3e46562f3c1cb101d4a49b00df193353df06a4ba017793bc855144de6d35a"
+    },
+    {
+      "id": "INFLAME",
+      "name": "힘 키우기",
+      "file": "art/cards/comic-b-v5/inflame.webp",
+      "sha256": "6181f4efc89545902a5384619591cf25b04a2109587b132808916156ad41bb57"
+    },
+    {
+      "id": "INJURY",
+      "name": "부식된 카드",
+      "file": "art/cards/review-2026-10-08/injury.webp",
+      "sha256": "36c5bc9282075276fbf728afdea12332a255d4cc11c51505e786afb52002470a"
+    },
+    {
+      "id": "INTIMIDATE",
+      "name": "땅 내려찍기",
+      "file": "art/cards/character-fix-2026-10-08/intimidate.webp",
+      "sha256": "46250d90d5c466e7987c48b69320592052fc09de542ac1ca750ac84813fc16a4"
+    },
+    {
+      "id": "IRON_WAVE",
+      "name": "막고 치기",
+      "file": "art/cards/character-fix-2026-10-08/iron_wave.webp",
+      "sha256": "c1ccff88935b5a9f5b22eb64fc2be8221c4a74639c5f95f81d23686dd79a6462"
+    },
+    {
+      "id": "JACK_OF_ALL_TRADES",
+      "name": "만능 도구",
+      "file": "art/cards/comic-b-v5/jack_of_all_trades.webp",
+      "sha256": "e287733ce9bed1829bd769efb388f7ffcb102420d2d864ed9cdeaf3cbc2987e8"
+    },
+    {
+      "id": "JUGGERNAUT",
+      "name": "밀어붙이기",
+      "file": "art/cards/character-fix-2026-10-08/juggernaut.webp",
+      "sha256": "f96b4027e31c6665a901840e7541e2ff8b40e1060304d3002844f6c4973a1ccb"
+    },
+    {
+      "id": "J_A_X",
+      "name": "무리한 힘",
+      "file": "art/cards/review-2026-10-08/j_a_x.webp",
+      "sha256": "58f33f689c1db10ab8d0f467806b712c072249a9857bb4d208e74e32afbba239"
+    },
+    {
+      "id": "LEG_SWEEP",
+      "name": "약점 확인",
+      "file": "art/cards/character-fix-2026-10-08/leg_sweep.webp",
+      "sha256": "00dbe835131aac76f89b1453efbcc54e90b98afe73dcee45f9c6de85255d1581"
+    },
+    {
+      "id": "LIMIT_BREAK",
+      "name": "각성",
+      "file": "art/cards/character-fix-2026-10-08/limit_break.webp",
+      "sha256": "b4a7b291be9e4d07b0c392434864b74527d24135c3b76eaeb65c16b51408609e"
+    },
+    {
+      "id": "MADNESS",
+      "name": "번뜩임",
+      "file": "art/cards/comic-b-v5/madness.webp",
+      "sha256": "205dd57d2b727150d8dba51dea65e636eae7ec8556597a467cd3484143775ae5"
+    },
+    {
+      "id": "MAGNETISM",
+      "name": "끌어모으기",
+      "file": "art/cards/comic-b-v5/magnetism.webp",
+      "sha256": "5af5cf4723d1849cd3ede2819cb3fd487e05c1bdd1a83c310de2b8c814d52d5f"
+    },
+    {
+      "id": "MALAISE",
+      "name": "기운 빼기",
+      "file": "art/cards/review-2026-10-08-r4/malaise.webp",
+      "sha256": "db12ea1ca38286ce519cdca1161048fb5ddada06d30e9da53f4cb1492c402a23"
+    },
+    {
+      "id": "MASTERFUL_STAB",
+      "name": "깔끔한 찌르기",
+      "file": "art/cards/review-2026-10-08-r4/masterful_stab.webp",
+      "sha256": "6c52694f4586bd615435f67e2b1b446773960343511b432445600941f466d7d5"
+    },
+    {
+      "id": "MASTER_OF_STRATEGY",
+      "name": "작전 짜기",
+      "file": "art/cards/review-2026-10-08-r4/master_of_strategy.webp",
+      "sha256": "3853c7701f99b0f4c455f3ce7c785377027d0b423a04a1bc9d684cba396afc40"
+    },
+    {
+      "id": "MAYHEM",
+      "name": "자동 장치",
+      "file": "art/cards/review-2026-10-08-r4/mayhem.webp",
+      "sha256": "982de4200e9e75e492c142b74c4a1d150e4b2e7795e570c0ed96980793982b74"
+    },
+    {
+      "id": "METALLICIZE",
+      "name": "단단한 갑옷",
+      "file": "art/cards/comic-b-v5/metallicize.webp",
+      "sha256": "1ebf7d378d209679c7a21ea87f0696601eb863c6aa935504f73dffea46a17757"
+    },
+    {
+      "id": "METAMORPHOSIS",
+      "name": "무기 설계",
+      "file": "art/cards/comic-b-v5/metamorphosis.webp",
+      "sha256": "4a056db5f78e334fdf37dafe8a02b6e7f78e169eac6027c3f8152917afd540a6"
+    },
+    {
+      "id": "MIND_BLAST",
+      "name": "쌓인 힘",
+      "file": "art/cards/review-2026-10-08-r4/mind_blast.webp",
+      "sha256": "e17d6eb5cd9845e517face8d616d39fb9eb66a7a2a700e2e0ef7e36f9634f964"
+    },
+    {
+      "id": "NECRONOMICURSE",
+      "name": "끈적임",
+      "file": "art/cards/review-2026-10-08-r4/necronomicurse.webp",
+      "sha256": "f746cb74a9ad34280f7777ff6c552bc7e627b532fffcd23fbad30f19948fedcd"
+    },
+    {
+      "id": "NEUTRALIZE",
+      "name": "견제",
+      "file": "art/cards/review-2026-10-08-r4/neutralize.webp",
+      "sha256": "f24f0a2dc0aa2f2a15f33ae4d45bce76f821f782c5252edb84fb278b1cedcabf"
+    },
+    {
+      "id": "NIGHT_TERROR",
+      "name": "분신술",
+      "file": "art/cards/review-2026-10-08-r4/night_terror.webp",
+      "sha256": "a6ee6fc189fcda3d477071c9a2da50dbe76d7ce19f1e04647135b3485bc8868e"
+    },
+    {
+      "id": "NORMALITY",
+      "name": "위험 구역",
+      "file": "art/cards/review-2026-10-08-r4/normality.webp",
+      "sha256": "a170d68274034dac4535a5d1890b233acd744ba31156417e3d7fe99c7ff1592b"
+    },
+    {
+      "id": "NOXIOUS_FUMES",
+      "name": "달빛 표식",
+      "file": "art/cards/review-2026-10-08-r4/noxious_fumes.webp",
+      "sha256": "22034aec6246a6388044520927fd138d28101fe52af5aa4283051a6561b36c43"
+    },
+    {
+      "id": "OFFERING",
+      "name": "마지막 힘",
+      "file": "art/cards/offering-v2.webp",
+      "sha256": "be1a3aa0a00880be04eec9822b521b441c3da0f12843fcacc985bd3a749adab4"
+    },
+    {
+      "id": "OUTMANEUVER",
+      "name": "시간 저장",
+      "file": "art/cards/review-2026-10-08-r4/outmaneuver.webp",
+      "sha256": "08a576c56e0810c4abc66bc40211c5d4ffe29e730fbe87e6cc4f4061f77c263d"
+    },
+    {
+      "id": "PAIN",
+      "name": "삐걱이는 장비",
+      "file": "art/cards/comic-b-v5/pain.webp",
+      "sha256": "a75538c64f3dc40813c3e0c9b5b57526761ffd2a34857b625a9ebf3bfa834a8d"
+    },
+    {
+      "id": "PANACEA",
+      "name": "안정 장치",
+      "file": "art/cards/comic-b-v5/panacea.webp",
+      "sha256": "f0672309455cd6a11c614a17bdcdf29af2b7642993ebc43905f54e81e8e5de30"
+    },
+    {
+      "id": "PANACHE",
+      "name": "다섯 박자",
+      "file": "art/cards/comic-b-v5/panache.webp",
+      "sha256": "b121cff868ae36a68a8c494ae7eec6e91c284893e8350b17d719d0a354dcca61"
+    },
+    {
+      "id": "PANICBUTTON",
+      "name": "방어 타워",
+      "file": "art/cards/comic-b-v5/panicbutton.webp",
+      "sha256": "31c59b5ad6fa54893a57706aab302016b796c17ea451ae6d74bef72aeb38737f"
+    },
+    {
+      "id": "PARASITE",
+      "name": "곪은 상처",
+      "file": "art/cards/review-2026-10-08-r4/parasite.webp",
+      "sha256": "33329c40b544d435c926560c7e8e3fe906d836170cfedd4aa27a6cf8438a605c"
+    },
+    {
+      "id": "PERFECTED_STRIKE",
+      "name": "익숙한 베기",
+      "file": "art/cards/review-2026-10-08-r4/perfected_strike.webp",
+      "sha256": "d482c66bd214f89391fcc00e0deb5d91d61ca0ada91864563d57da29effef7f6"
+    },
+    {
+      "id": "PHANTASMAL_KILLER",
+      "name": "날 세우기",
+      "file": "art/cards/review-2026-10-08-r4/phantasmal_killer.webp",
+      "sha256": "3f021f5794448e9da1e6800b698c7ce71fdba8f82a7927b94511c3d6ad711d20"
+    },
+    {
+      "id": "PIERCINGWAIL",
+      "name": "조용히",
+      "file": "art/cards/review-2026-10-08-r4/piercingwail.webp",
+      "sha256": "14d0ca38b6d533d8d1e8b7014f4cec7ea26947e131353287afa9af99cda26895"
+    },
+    {
+      "id": "POISONED_STAB",
+      "name": "표식 찌르기",
+      "file": "art/cards/review-2026-10-08-r4/poisoned_stab.webp",
+      "sha256": "c96b37d7bc3421f2e3b50c73d187403e44b21b137df98a162bb9ed00d0176126"
+    },
+    {
+      "id": "POMMEL_STRIKE",
+      "name": "이어 베기",
+      "file": "art/cards/review-2026-10-08-r4/pommel_strike.webp",
+      "sha256": "f7ecac242770d420d9d9b9a882e06d284cc5eb90c50faec758d565d9a85bd3f4"
+    },
+    {
+      "id": "POWER_THROUGH",
+      "name": "버티기",
+      "file": "art/cards/review-2026-10-13/power_through.webp",
+      "sha256": "e78dc51681e1d9fce2a1c238fb0bb00507bc06213ee29ecbefc93053e2848289"
+    },
+    {
+      "id": "PREDATOR",
+      "name": "앞서가기",
+      "file": "art/cards/review-2026-10-08-r4/predator.webp",
+      "sha256": "c574830e8940d0fc4dfed2b7d96c2e2152075e5eda7d50fd82b47edbb66aa274"
+    },
+    {
+      "id": "PREPARED",
+      "name": "준비",
+      "file": "art/cards/review-2026-10-08-r4/prepared.webp",
+      "sha256": "9924f526d128be1587e3eb871789771fd9f6de24a209560e100de65771a8354e"
+    },
+    {
+      "id": "PRIDE",
+      "name": "스트레스",
+      "file": "art/cards/review-2026-10-08-r4/pride.webp",
+      "sha256": "9c0cab8b8cec048e8cd205d99281310234ee81308a4556f3a6b26f0993cd4677"
+    },
+    {
+      "id": "PUMMEL",
+      "name": "연속 치기",
+      "file": "art/cards/comic-b-v5/pummel.webp",
+      "sha256": "061a2a6803a10159d33a76145f5c32f7345db75c4b14ab5b507eb6b854703ae6"
+    },
+    {
+      "id": "PURITY",
+      "name": "비우기",
+      "file": "art/cards/comic-b-v5/purity.webp",
+      "sha256": "c059921626bf48efc90fb470392c43118c0635946a8869e2f35d189e57186779"
+    },
+    {
+      "id": "QUICK_SLASH",
+      "name": "재빠른 공격",
+      "file": "art/cards/review-2026-10-08-r4/quick_slash.webp",
+      "sha256": "e31e6fc0407637f3acfabf6940b62f862f2dd6fdc67d15bfc38d7814fbafdb1d"
+    },
+    {
+      "id": "RAGE",
+      "name": "공격 준비",
+      "file": "art/cards/comic-b-v5/rage.webp",
+      "sha256": "afa629c31f546858b244418735e9cb4a25cd0ac5e4a31fec808fd41bf90a7e67"
+    },
+    {
+      "id": "RAMPAGE",
+      "name": "더 세게",
+      "file": "art/cards/comic-b-v5/rampage.webp",
+      "sha256": "f095d9a9eb74f15853fe8c294eff384694b22d3b6c4651bdde9640fbefbe134b"
+    },
+    {
+      "id": "REAPER",
+      "name": "힘 되찾기",
+      "file": "art/cards/review-2026-10-08-r4/reaper.webp",
+      "sha256": "7627da5bcc8358e12e1149429d4136cdbd1ea1adc35339160dd6cf7cf27c9981"
+    },
+    {
+      "id": "RECKLESS_CHARGE",
+      "name": "무작정 돌진",
+      "file": "art/cards/review-2026-10-08-r4/reckless_charge.webp",
+      "sha256": "45981d45d850bb777200256c47c758799a2c965283d036cfcd149b318773830c"
+    },
+    {
+      "id": "REFLEX",
+      "name": "반사 신경",
+      "file": "art/cards/review-2026-10-08-r4/reflex.webp",
+      "sha256": "65229f935c37d4afe33be18c4973fd6aabe9411477cd206747525a9087322b48"
+    },
+    {
+      "id": "REGRET",
+      "name": "막중한 책임감",
+      "file": "art/cards/review-2026-10-08-r4/regret.webp",
+      "sha256": "9f9f4f160b90aad4b4dc94cb6d46be3e3d0f03386c19ab608b202c20232c0d7a"
+    },
+    {
+      "id": "RIDDLE_WITH_HOLES",
+      "name": "다섯 번 찌르기",
+      "file": "art/cards/review-2026-10-08-r4/riddle_with_holes.webp",
+      "sha256": "3974a6268503d3693d295e8a41a04495a50fb672fe6ecc618524530655d956b0"
+    },
+    {
+      "id": "RITUALDAGGER",
+      "name": "자라는 단검",
+      "file": "art/cards/comic-b-v5/ritualdagger.webp",
+      "sha256": "bad387aaa8026806246f55ecbbaf7b2655f5ab38c773daabc7e35690a92a2043"
+    },
+    {
+      "id": "RUPTURE",
+      "name": "다시 힘내기",
+      "file": "art/cards/review-2026-10-08-r4/rupture.webp",
+      "sha256": "d47d8fe8587630911a8c46ddfe1312d3980fd3f47bc8873ee3fcac9a9f2bf765"
+    },
+    {
+      "id": "SADISTIC_NATURE",
+      "name": "틈새 공략",
+      "file": "art/cards/review-2026-10-08-r4/sadistic_nature.webp",
+      "sha256": "5a6bd4f1c22948ddcb4aca817d9d0013bced198c355e4bc5dc32627540128b82"
+    },
+    {
+      "id": "SEARING_BLOW",
+      "name": "달군 칼",
+      "file": "art/cards/comic-b-v5/searing_blow.webp",
+      "sha256": "4325022159d5d37622eb84f01d0b3e31b55e04dfd0bc8fe7371c086b4a7e04c2"
+    },
+    {
+      "id": "SECOND_WIND",
+      "name": "숨 고르기",
+      "file": "art/cards/review-2026-10-08-r4/second_wind.webp",
+      "sha256": "1a2779e88bc144aaf6e3f360ea2ac683cdc68894ebf8756362e6096f3a2ed573"
+    },
+    {
+      "id": "SECRET_TECHNIQUE",
+      "name": "숨은 방법",
+      "file": "art/cards/comic-b-v5/secret_technique.webp",
+      "sha256": "73b3cee45a95d011f6208825ce1850dfa1a5d9450cc7c5a0e8555b30ec925a57"
+    },
+    {
+      "id": "SECRET_WEAPON",
+      "name": "숨겨 둔 무기",
+      "file": "art/cards/comic-b-v5/secret_weapon.webp",
+      "sha256": "6c98ff7aa100893a02fd0fcdc8b13719df5fb3d74524d5171e0bf4d3f7e76d76"
+    },
+    {
+      "id": "SEEING_RED",
+      "name": "에너지 모으기",
+      "file": "art/cards/review-2026-10-08-r4/seeing_red.webp",
+      "sha256": "224e76d29a836776451d0e6713086767fbfb7d7246c7c7047067efe25ffb637d"
+    },
+    {
+      "id": "SENTINEL",
+      "name": "예비 방패",
+      "file": "art/cards/comic-b-v5/sentinel.webp",
+      "sha256": "df97570d9539e2e082442743d0141423694cd7383b9ad5e24f13f9407e4ad984"
+    },
+    {
+      "id": "SETUP",
+      "name": "다음번에",
+      "file": "art/cards/review-2026-10-08-r4/setup.webp",
+      "sha256": "e32d3fce3ff859229d4928637d015280a9f04f8c2bfbbfe40fb02a61595e2245"
+    },
+    {
+      "id": "SEVER_SOUL",
+      "name": "싹 정리",
+      "file": "art/cards/review-2026-10-08-r4/sever_soul.webp",
+      "sha256": "4e035ab2a314aaa7ad060ca6cd482a7a0bdd1936a78466a160a14233d7a4462c"
+    },
+    {
+      "id": "SHAME",
+      "name": "녹슨 장비",
+      "file": "art/cards/review-2026-10-08-r4/shame.webp",
+      "sha256": "ad0aec57fe6cf872d57b33cc10392c9e553bdaccc42317a0a2d0149c2df588ee"
+    },
+    {
+      "id": "SHOCKWAVE",
+      "name": "큰 울림",
+      "file": "art/cards/review-2026-10-08-r4/shockwave.webp",
+      "sha256": "fe2c6f232f79dafb521e61c23109683938f2149c9e681be87968d30414b4d711"
+    },
+    {
+      "id": "SHRUG_IT_OFF",
+      "name": "가볍게 막기",
+      "file": "art/cards/review-2026-10-08-r4/shrug_it_off.webp",
+      "sha256": "844e9e027ba40bf817ed68cda203f74be91b4be125b4c764a9fb73a2f8bbd776"
+    },
+    {
+      "id": "SKEWER",
+      "name": "연속 찌르기",
+      "file": "art/cards/comic-b-v5/skewer.webp",
+      "sha256": "80e890df2ec6f38e2a2ddb8782fe7bb1f454836fac9475a46a8bdc4fe0bec36a"
+    },
+    {
+      "id": "SLICE",
+      "name": "가벼운 공격",
+      "file": "art/cards/comic-b-v5/slice.webp",
+      "sha256": "083460e84e7a5d9ae22b621b2c2ccc7feac90bb49f145a72f47870cd15993e13"
+    },
+    {
+      "id": "SLIMED",
+      "name": "풀린 신발끈",
+      "file": "art/cards/review-2026-10-08-r4/slimed.webp",
+      "sha256": "e6cb283655b6d171fbe002cb55f7f3ac62e9685e7b71223b8cf6e0d48bb51e4d"
+    },
+    {
+      "id": "SPOT_WEAKNESS",
+      "name": "빈틈 찾기",
+      "file": "art/cards/comic-b-v5/spot_weakness.webp",
+      "sha256": "548cb79cf0fef4df4710927e36cf656c5cb1cbccd109a2b4fcb819a7e4e40372"
+    },
+    {
+      "id": "STORM_OF_STEEL",
+      "name": "단검 잔뜩",
+      "file": "art/cards/comic-b-v5/storm_of_steel.webp",
+      "sha256": "cea43ab5734cd2eb40bde2fddc64e0f772e95811498194c86a3de8bfa6eb8835"
+    },
+    {
+      "id": "STRIKE_G",
+      "name": "베기",
+      "file": "art/cards/comic-b-v5/strike_g.webp",
+      "sha256": "8c3a1216454b51003ed3c6e7577b47d5a2b17714b36eed9c53f7705e386d8001"
+    },
+    {
+      "id": "STRIKE_R",
+      "name": "베기",
+      "file": "art/cards/comic-b-v5/strike_r.webp",
+      "sha256": "49c1cd44374e4fbc9c0783fe64e18689a036b2244c06c892c64b3da45c2056d0"
+    },
+    {
+      "id": "SUCKER_PUNCH",
+      "name": "빈틈 치기",
+      "file": "art/cards/comic-b-v5/sucker_punch.webp",
+      "sha256": "ada54b6b27af9ac62c292b2aa73b650fdfe0dafcd42cee45e8226477fed9c36d"
+    },
+    {
+      "id": "SURVIVOR",
+      "name": "방어 태세",
+      "file": "art/cards/review-2026-10-08-r4/survivor.webp",
+      "sha256": "157d17017c72009c05fa4077d3239b25cc46ab40a7ba58d3c83aa1d234990e1b"
+    },
+    {
+      "id": "SWIFT_STRIKE",
+      "name": "순간 베기",
+      "file": "art/cards/review-2026-10-08-r4/swift_strike.webp",
+      "sha256": "15ee082fb52df48a3eb8ca230f6eb2565b4204c6eaeba81dae69ed7491a17bc6"
+    },
+    {
+      "id": "SWORD_BOOMERANG",
+      "name": "부메랑",
+      "file": "art/cards/comic-b-v5/sword_boomerang.webp",
+      "sha256": "5783c439f79520834a28faa459d503e7f069eff057541527b345c66ac49bbd86"
+    },
+    {
+      "id": "TACTICIAN",
+      "name": "연결고리",
+      "file": "art/cards/review-2026-10-08-r4/tactician.webp",
+      "sha256": "b4a766869044b988ff6735c7907ec2e14cd3e40e265fcee15a1c5b9ea7c6b2dc"
+    },
+    {
+      "id": "TERROR",
+      "name": "약점 표시",
+      "file": "art/cards/review-2026-10-08-r4/terror.webp",
+      "sha256": "433e7123ea3c91d618e32459a093f8967955167a5198a9f518f7d6fc87bb43cc"
+    },
+    {
+      "id": "THE_BOMB",
+      "name": "시한 폭탄",
+      "file": "art/cards/review-2026-10-08-r4/the_bomb.webp",
+      "sha256": "f23757a1cd54d09c47b18fbf861268a5055f1fb5c5ab23991822a9c67c4bcb11"
+    },
+    {
+      "id": "THINKING_AHEAD",
+      "name": "미리 보기",
+      "file": "art/cards/comic-b-v5/thinking_ahead.webp",
+      "sha256": "8aaad3ece1a685b11f5f8f7a2a941c1a91749ee13696ca1a6da96cc439637ede"
+    },
+    {
+      "id": "THUNDERCLAP",
+      "name": "쿵 내리치기",
+      "file": "art/cards/comic-b-v5/thunderclap.webp",
+      "sha256": "6fac141b13a83dca509e6943f6b3e3dcac44fbc6c13808c16d98bac7200c04f2"
+    },
+    {
+      "id": "TOOLS_OF_THE_TRADE",
+      "name": "도구 챙기기",
+      "file": "art/cards/comic-b-v5/tools_of_the_trade.webp",
+      "sha256": "667b574653b88855e7341651d7bc0bac2e368bc2153aa6c47826ea0a76343343"
+    },
+    {
+      "id": "TRANSMUTATION",
+      "name": "새 조합",
+      "file": "art/cards/comic-b-v5/transmutation.webp",
+      "sha256": "c8950a30a6e2480265bae6a5c72dd80711c97ef231ebbefeb83dea8f7e494d4c"
+    },
+    {
+      "id": "TRIP",
+      "name": "기습 작전",
+      "file": "art/cards/review-2026-10-08-r4/trip.webp",
+      "sha256": "5a6bd4f1c22948ddcb4aca817d9d0013bced198c355e4bc5dc32627540128b82"
+    },
+    {
+      "id": "TRUE_GRIT",
+      "name": "침착한 방어",
+      "file": "art/cards/review-2026-10-08-r4/true_grit.webp",
+      "sha256": "01fbf4a1d66c435deb2deb00472b124757f351da15230841ce06fb3f56913539"
+    },
+    {
+      "id": "TWIN_STRIKE",
+      "name": "두 번 베기",
+      "file": "art/cards/review-2026-10-08-r4/twin_strike.webp",
+      "sha256": "91331e9b056219f15114cdef1cdad645cd08ce2a7ad49bab92bc80509c4bacca"
+    },
+    {
+      "id": "UNDERHANDED_STRIKE",
+      "name": "돌려 베기",
+      "file": "art/cards/comic-b-v5/underhanded_strike.webp",
+      "sha256": "67c6c9bc702216694f7a39b38246b8fccf859c2f51bd3ae0928360f60302c142"
+    },
+    {
+      "id": "UNLOAD",
+      "name": "쏟아붓기",
+      "file": "art/cards/review-2026-10-08-r4/unload.webp",
+      "sha256": "e728ebc396c041eedcdc0bb24b0dc27c080ce96959eafa87346599b555228e88"
+    },
+    {
+      "id": "UPPERCUT",
+      "name": "올려치기",
+      "file": "art/cards/review-2026-10-08-r4/uppercut.webp",
+      "sha256": "a4623a3ecfcb003c5b86b0898f224235e3bd1fe42ba04c62549af3bca681e12a"
+    },
+    {
+      "id": "VENOMOLOGY",
+      "name": "물약 만들기",
+      "file": "art/cards/review-2026-10-08-r4/venomology.webp",
+      "sha256": "eb1586c0fb0de764976a4f44aef7d0f5a87f6db141194bd7deec9d4983601a85"
+    },
+    {
+      "id": "VIOLENCE",
+      "name": "무기 챙기기",
+      "file": "art/cards/comic-b-v5/violence.webp",
+      "sha256": "04adb4340806e2a2399216f040aeeec21b70e0884e384d928baa9e76b9210374"
+    },
+    {
+      "id": "VOID",
+      "name": "탈진",
+      "file": "art/cards/review-2026-10-08-r4/void.webp",
+      "sha256": "fc7ad3c2b1712bbe819a932578be07858b2da797d9b34f6e21751336fee854b6"
+    },
+    {
+      "id": "WARCRY",
+      "name": "신호 보내기",
+      "file": "art/cards/comic-b-v5/warcry.webp",
+      "sha256": "5e33ccbcafb3b52925486e55c8b2cd37a5a0ab3ee4c1274dbbff3c5071d16b19"
+    },
+    {
+      "id": "WELL_LAID_PLANS",
+      "name": "남겨 두기",
+      "file": "art/cards/comic-b-v5/well_laid_plans.webp",
+      "sha256": "f85f855cff9f8bb06eeeff3273ab8e7026cfb8d7676c3b4eabc949389ecea4b0"
+    },
+    {
+      "id": "WHIRLWIND",
+      "name": "회오리",
+      "file": "art/cards/review-2026-10-08-r4/whirlwind.webp",
+      "sha256": "367fd64c2ca114ddd4d50f6353a9c452c884167732dcd7b15ad9f15f3521ee8b"
+    },
+    {
+      "id": "WILD_STRIKE",
+      "name": "거친 베기",
+      "file": "art/cards/comic-b-v5/wild_strike.webp",
+      "sha256": "31801bc98e905b78f3301abbf12c9ceae1ff9c9890863a96705dea02e15b4c59"
+    },
+    {
+      "id": "WOUND",
+      "name": "장비 손상",
+      "file": "art/cards/review-2026-10-08-r4/wound.webp",
+      "sha256": "490a0b68e2efad050a438da274b0e312285e31ce568160a1dbc82d760aa2bf49"
+    },
+    {
+      "id": "WRAITH_FORM_V2",
+      "name": "안개 망토",
+      "file": "art/cards/review-2026-10-08-r4/wraith_form_v2.webp",
+      "sha256": "9f90dd39596fbfd27aa74574f0558552c6fd4024760cfa6c00519f2532218699"
+    },
+    {
+      "id": "WRITHE",
+      "name": "꼬인 계획",
+      "file": "art/cards/review-2026-10-08-r4/writhe.webp",
+      "sha256": "503471932f564c1d30465645521ba2499a43df4a82137f6bab0569e6c5e1f011"
+    },
+    {
+      "id": "SHIV",
+      "name": "단검",
+      "file": "art/cards/comic-b-v5/shiv.webp",
+      "sha256": "5ebec562e455c485a13a576ff69f0006e7d4629290724bf8106bcb867c175c58"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "tool": "built-in image_gen",
+  "frameWidth": 384,
+  "frameHeight": 384,
+  "columns": 4,
+  "rows": 6,
+  "pivot": [
+    0.5,
+    0.8333333333333334
+  ],
+  "facing": "right",
+  "criticalThreshold": 0.25,
+  "priority": [
+    "hit",
+    "attack",
+    "guard",
+    "critical",
+    "weak",
+    "idle"
+  ],
+  "states": [
+    {
+      "id": "idle",
+      "label": "기본 대기",
+      "row": 0,
+      "durations": [
+        420,
+        480,
+        420,
+        480
+      ],
+      "loop": true
+    },
+    {
+      "id": "attack",
+      "label": "공격",
+      "row": 1,
+      "durations": [
+        100,
+        85,
+        135,
+        130
+      ],
+      "loop": false
+    },
+    {
+      "id": "hit",
+      "label": "피격",
+      "row": 2,
+      "durations": [
+        65,
+        100,
+        120,
+        115
+      ],
+      "loop": false
+    },
+    {
+      "id": "weak",
+      "label": "약화",
+      "row": 3,
+      "durations": [
+        500,
+        550,
+        600,
+        550
+      ],
+      "loop": true
+    },
+    {
+      "id": "critical",
+      "label": "위기",
+      "row": 4,
+      "durations": [
+        480,
+        620,
+        480,
+        620
+      ],
+      "loop": true
+    },
+    {
+      "id": "guard",
+      "label": "방어",
+      "row": 5,
+      "durations": [
+        90,
+        110,
+        150,
+        120
+      ],
+      "loop": false
+    }
+  ],
+  "heroes": {
+    "taon": {
+      "name": "태온",
+      "role": "전사",
+      "sheet": "taon.webp"
+    },
+    "seorin": {
+      "name": "서린",
+      "role": "도적",
+      "sheet": "seorin.webp"
+    }
+  }
+}
